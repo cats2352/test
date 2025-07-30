@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "초급 진화석",
+    "tuimg": "test/image/tumnail/4409.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "초급 장비 진화에 사용되는 재료.",
+    "Get it": "탐험 보상",
+    "ModeClass": "해적제"
+  }
+
+] 
