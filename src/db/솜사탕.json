@@ -1,9 +1,9 @@
 [
   {
-    "Name": "딸기 솜사탕",
+    "Name": "솜사탕・체력 강화",
     "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "달콤한 딸기맛 솜사탕.",
+    "maimg": "test/image/maimg/솜사탕체력강화.png",
+    "Description": "‘체력’을 강화할 수 있는 신비한 ‘솜사탕’<br>캐릭터 합성 시, ‘체력’의 최대치를 +1마다 5 올릴 수 있다.",
     "Get it": "축제 상점"
   }
 ] 

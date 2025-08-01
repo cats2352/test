@@ -324,3 +324,98 @@ body {
   margin-bottom: 10px;
   text-align: center;
 } 
+
+/* 반응형 모달 스타일 */
+@media screen and (max-width: 768px) {
+  .modal-content {
+    width: 95%;
+    min-width: auto;
+    margin: 10px;
+  }
+
+  .modal-header {
+    padding: 16px;
+  }
+
+  .modal-body {
+    padding: 16px;
+    gap: 16px;
+  }
+
+  .modal-title {
+    font-size: 1.2rem;
+    margin-right: 20px;
+  }
+
+  .back-btn {
+    font-size: 1.2rem;
+    margin-right: 12px;
+  }
+
+  .modal-item-name {
+    font-size: 1.2rem;
+  }
+
+  .modal-item-number {
+    font-size: 1.1rem;
+  }
+
+  .info-label {
+    font-size: 0.9rem;
+  }
+
+  .info-value {
+    font-size: 1rem;
+  }
+
+  .maimg {
+    width: 100%;
+    height: auto;
+    max-height: 40vh;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .modal-content {
+    width: 92%;
+    margin: 16px auto;
+    border-radius: 12px;
+    height: auto;
+    max-height: 90vh;
+  }
+
+  .modal-header {
+    padding: 12px;
+  }
+
+  .modal-body {
+    padding: 12px;
+    gap: 12px;
+  }
+
+  .modal-title {
+    font-size: 1.1rem;
+    margin-right: 16px;
+  }
+
+  .back-btn {
+    font-size: 1.1rem;
+    margin-right: 8px;
+  }
+
+  .modal-item-name {
+    font-size: 1.1rem;
+  }
+
+  .info-label {
+    font-size: 0.85rem;
+  }
+
+  .info-value {
+    font-size: 0.95rem;
+  }
+
+  .maimg {
+    max-height: 35vh;
+  }
+} 
