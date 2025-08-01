@@ -1,9 +1,81 @@
 [
   {
-    "Name": "상한서: 독",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "힘 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/힘 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "오래되어 효과가 약해진 독 마법서.",
+    "Description": "힘 속성의 스고페스 한정 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
+    "Get it": "고대 유적"
+  },
+
+  {
+    "Name": "기 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/기 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "기 속성의 스고페스 한정 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
+    "Get it": "고대 유적"
+  },
+
+  {
+    "Name": "속 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/속 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "속 속성의 스고페스 한정 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
+    "Get it": "고대 유적"
+  },
+
+  {
+    "Name": "심 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/심 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "심 속성의 스고페스 한정 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
+    "Get it": "고대 유적"
+  },
+
+  {
+    "Name": "지 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/지 속성 스고페스 한정 캐릭터 레벨 상한 돌파 수배서.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "지 속성의 스고페스 한정 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
+    "Get it": "고대 유적"
+  },
+
+  {
+    "Name": "힘 속성 울트라 레어 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/힘 속성 울트라 레어 레벨 상한 돌파 수배서.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "스고페스 한정 캐릭터를 제외한 힘 속성 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
+    "Get it": "고대 유적"
+  },
+
+  {
+    "Name": "기 속성 울트라 레어 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/기 속성 울트라 레어 레벨 상한 돌파 수배서.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "스고페스 한정 캐릭터를 제외한 기 속성 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
+    "Get it": "고대 유적"
+  },
+
+  {
+    "Name": "속 속성 울트라 레어 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/속 속성 울트라 레어 레벨 상한 돌파 수배서.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "스고페스 한정 캐릭터를 제외한 속 속성 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
+    "Get it": "고대 유적"
+  },
+
+  {
+    "Name": "심 속성 울트라 레어 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/심 속성 울트라 레어 레벨 상한 돌파 수배서.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "스고페스 한정 캐릭터를 제외한 심 속성 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
+    "Get it": "고대 유적"
+  },
+
+  {
+    "Name": "지 속성 울트라 레어 레벨 상한 돌파 수배서",
+    "tuimg": "test/image/tumnail/지 속성 울트라 레어 레벨 상한 돌파 수배서.png",
+    "maimg": "test/image/maimg/4411.png",
+    "Description": "스고페스 한정 캐릭터를 제외한 지 속성 캐릭터의 강화 재료로 사용하면 레벨 상한이 돌파하는 불가사의한 수배서.",
     "Get it": "고대 유적"
   }
 ] 

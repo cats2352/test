@@ -21,6 +21,10 @@ const SUB_FILTERS = [
   { key: '기타', label: '기타' },
 ];
 
+// 페이지네이션 설정
+const ITEMS_PER_PAGE = 10;
+let currentDisplayCount = ITEMS_PER_PAGE;
+
 const filterBar = document.getElementById('filterBar');
 const itemList = document.getElementById('itemList');
 const itemDetail = document.getElementById('itemDetail');
@@ -145,6 +149,27 @@ function filterAndSort(data) {
   return filtered;
 }
 
+// 더보기 버튼 렌더링
+function renderLoadMoreButton(totalItems) {
+  // 기존 더보기 버튼 제거
+  const existingButton = document.querySelector('.load-more-button');
+  if (existingButton) {
+    existingButton.remove();
+  }
+
+  // 더 보여줄 아이템이 있는 경우에만 버튼 표시
+  if (currentDisplayCount < totalItems) {
+    const loadMoreButton = document.createElement('button');
+    loadMoreButton.className = 'load-more-button';
+    loadMoreButton.textContent = '더보기';
+    loadMoreButton.onclick = () => {
+      currentDisplayCount += ITEMS_PER_PAGE;
+      renderItemList(filterAndSort(currentData));
+    };
+    itemList.appendChild(loadMoreButton);
+  }
+}
+
 // 아이템 리스트 렌더링
 function renderItemList(data) {
   itemList.innerHTML = '';
@@ -152,10 +177,14 @@ function renderItemList(data) {
     itemList.innerHTML = '<div style="color:#aaa; padding:40px; text-align:center;">아이템이 없습니다.</div>';
     return;
   }
-  data.forEach((item, idx) => {
+
+  // 현재까지 표시할 데이터 슬라이싱
+  const displayData = data.slice(0, currentDisplayCount);
+
+  displayData.forEach((item, idx) => {
     const card = document.createElement('div');
     card.className = 'item-card';
-    card.onclick = () => openItemDetailModal(item, item.__idx || idx+1);
+    card.onclick = () => openItemDetailModal(item, item.__idx || idx + 1);
 
     // 썸네일 이미지
     const thumb = document.createElement('img');
@@ -177,15 +206,21 @@ function renderItemList(data) {
     name.className = 'item-name';
     name.textContent = item.Name;
     info.appendChild(name);
-    card.appendChild(info);
 
+    card.appendChild(info);
     itemList.appendChild(card);
   });
+
+  // 더보기 버튼 렌더링
+  renderLoadMoreButton(data.length);
 }
 
 // 데이터 로드
 async function loadData(file) {
   try {
+    // 데이터 로드할 때마다 currentDisplayCount 초기화
+    currentDisplayCount = ITEMS_PER_PAGE;
+    
     // 전체 필터일 때는 모든 카테고리 json을 합쳐서 표시
     if (file === 'all.json') {
       // all.json 대신, 다른 모든 카테고리 파일을 fetch
