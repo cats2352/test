@@ -80,210 +80,106 @@
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "2주년 기념 진수성찬",
+    "tuimg": "test/image/tumnail/2주년 기념 진수성찬.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "원피스 트레저 크루즈의 2주년을 기념하여 만든 진수성찬<br>캐릭터 합성에 사용하면 경험치 500만을 얻을 수 있다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "봉의 백조 망토",
+    "tuimg": "test/image/tumnail/봉의 백조 망토.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "봉이 애용하는 백조 망토. 백조가 장식되어 있다. 합성시키면 ‘경험치’를 222222 얻을 수 있다. “경험치를 많이 얻을 수 있다구―웅! 합성해버리셔―!”",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "봉의 백조 망토 - 빛나는 친구",
+    "tuimg": "test/image/tumnail/봉의 백조 망토 - 빛나는 친구.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "봉이 애용하는 굉장한 백조 망토. 등에는 ‘봉쿠레’라고 쓰여 있다. 합성시키면 ‘경험치’를 2222222 얻을 수 있다. “판매해도 베리를 많이 얻을 수 있다구―웅! 굉장히 이득이지―잉!”",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "기념 진수성찬 - 원피스 트레저 크루즈",
+    "tuimg": "test/image/tumnail/기념 진수성찬 - 원피스 트레저 크루즈.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "원피스 트레저 크루즈의 축하 기념 진수성찬<br>캐릭터 합성에 사용하면 경험치 500만을 얻을 수 있다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "기념 로스트 터키 - 원피스 트레저 크루즈",
+    "tuimg": "test/image/tumnail/기념 로스트 터키 - 원피스 트레저 크루즈.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "트레저 크루즈를 축하하기 위해 만들어진 기념 로스트 터키! 캐릭터의 합성에 사용하면 경험치를 무려 500만을 받을 수 있는 데다가, 캐릭터의 필살기 레벨이 1 상승한다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "삶은 랍스터 - 별 2개",
+    "tuimg": "test/image/tumnail/삶은 랍스터 - 별 2개.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "트레저 크루즈의 축하를 위해 만든 기념 삶은 랍스터!<br>캐릭터의 합성에 사용하면 경험치를 33333 받을 수 있다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "삶은 랍스터 - 별 3개",
+    "tuimg": "test/image/tumnail/삶은 랍스터 - 별 3개.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "트레저 크루즈의 축하를 위해 만든 기념 삶은 랍스터!<br>캐릭터의 합성에 사용하면 경험치를 333333 받을 수 있다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "삶은 랍스터 - 별 4개",
+    "tuimg": "test/image/tumnail/삶은 랍스터 - 별 4개.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "트레저 크루즈의 축하를 위해 만든 기념 삶은 랍스터!<br>캐릭터의 합성에 사용하면 경험치를 3333333 받을 수 있다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "발렌타인 초콜릿",
+    "tuimg": "test/image/tumnail/발렌타인 초콜릿.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "발렌타인데이를 기념하여 만들어진 초콜릿!<br>캐릭터 강화에 사용하면 경험치 2140000을 얻을 수 있다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "다과회 플레이트 호미즈 ★2",
+    "tuimg": "test/image/tumnail/다과회 플레이트 호미즈 2.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "원피스 트레저 크루즈 축하 행사에 어울리는 기념용 다과회 플레이트!<br>캐릭터 합성에 사용하면 경험치 40000을 얻을 수 있다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "다과회 플레이트 호미즈 ★3",
+    "tuimg": "test/image/tumnail/다과회 플레이트 호미즈 3.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "원피스 트레저 크루즈 축하 행사에 어울리는 기념용 다과회 플레이트!<br>캐릭터 합성에 사용하면 경험치 400000을 얻을 수 있다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "다과회 플레이트 호미즈 ★4",
+    "tuimg": "test/image/tumnail/다과회 플레이트 호미즈 4.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "원피스 트레저 크루즈 축하 행사에 어울리는 기념용 다과회 플레이트!<br>캐릭터 합성에 사용하면 경험치 4000000을 얻을 수 있다!",
     "Get it": "던전 보상"
   },
 
   {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
+    "Name": "비전의 티 호미즈",
+    "tuimg": "test/image/tumnail/비전의 티 호미즈.png",
     "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
-  },
-
-  {
-    "Name": "빨간 파워스돼지",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
+    "Description": "원피스 트레저 크루즈 축하 행사에 어울리는 티 세트와 비전의 홍차!<br>능력 슬롯을 보유한 캐릭터에 합성하면 ‘능력 해방’이 가능하며, 추가로 경험치 400000을 얻을 수 있다!",
     "Get it": "던전 보상"
   }
 ]
