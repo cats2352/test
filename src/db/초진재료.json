@@ -1,11 +1,103 @@
 [
   {
-    "Name": "초급 진화석",
-    "tuimg": "test/image/tumnail/4409.png",
-    "maimg": "test/image/maimg/4411.png",
-    "Description": "초급 장비 진화에 사용되는 재료.",
-    "Get it": "탐험 보상",
-    "ModeClass": "해적제"
-  }
+    "Name": "붉은 크리스탈 해골 - 몽키 D. 루피",
+    "tuimg": "test/image/tumnail/1387-skull.png",
+    "maimg": "test/image/maimg/1387.png",
+    "Description": "붉은색으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 '구하기 어렵다'. 아직 많은 수수께끼가 있지만 '몽키 D. 루피 기어2'가 이것을 몸에 지니면 시간을 초월한 '초진화'가 찾아온다고 한다.",
+    "Get it": "스토리",
+    "ModeClass": "스토리",
+    "BeforeCharacter": {
+      "name": "몽키 D. 루피",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4"
+    },
+    "AfterCharacter": {
+      "name": "몽키 D. 루피 - 고무고무 코끼리 총",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1387"
+    }
+  },
 
-] 
+  {
+    "Name": "비취 크리스탈 해골 - 롤로노아 조로",
+    "tuimg": "test/image/tumnail/1388-skull.png",
+    "maimg": "test/image/maimg/1388.png",
+    "Description": "비취색으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 ‘구하기 어렵다’. 아직 많은 수수께끼가 있지만 ‘롤로노아 조로 아수라일무은’이 이것을 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "스토리",
+    "ModeClass": "스토리",
+    "BeforeCharacter": {
+      "name": "롤로노아 조로 - 아수라일무은",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/8"
+    },
+    "AfterCharacter": {
+      "name": "롤로노아 조로 - 액항조",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1388"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 나미",
+    "tuimg": "test/image/tumnail/1389-skull.png",
+    "maimg": "test/image/maimg/1389.png",
+    "Description": "칠흑색으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 ‘구하기 어렵다’. 아직 많은 수수께끼가 있지만 ‘나미 썬더볼트 템포’가 이것을 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "스토리",
+    "ModeClass": "스토리",
+    "BeforeCharacter": {
+      "name": "나미 - 썬더볼트 템포",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/12"
+    },
+    "AfterCharacter": {
+      "name": "나미 - 썬더 브리드 템포",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1389"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 우솝",
+    "tuimg": "test/image/tumnail/1446-skull.png",
+    "maimg": "test/image/maimg/1446.png",
+    "Description": "호박색으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 ‘구하기 어렵다’. 아직 많은 수수께끼가 있지만, ‘저격왕’이 이것을 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "스토리",
+    "ModeClass": "스토리",
+    "BeforeCharacter": {
+      "name": "저격왕",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/16"
+    },
+    "AfterCharacter": {
+      "name": "우솝 - 플라타너스 수리검",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1446"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 상디",
+    "tuimg": "test/image/tumnail/1447-skull.png",
+    "maimg": "test/image/maimg/1447.png",
+    "Description": "푸른색으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 ‘구하기 어렵다’. 아직 많은 수수께끼가 있지만, ‘상디 디아블 잠브’가 이것을 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "스토리",
+    "ModeClass": "스토리",
+    "BeforeCharacter": {
+      "name": "상디 - 디아블 잠브",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/20"
+    },
+    "AfterCharacter": {
+      "name": "상디 - 그릴 샷",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1447"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 토니토니 쵸파",
+    "tuimg": "test/image/tumnail/1448-skull.png",
+    "maimg": "test/image/maimg/1448.png",
+    "Description": "호박색으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 ‘구하기 어렵다’. 아직 많은 수수께끼가 있지만, ‘토니토니 쵸파 중량 강화’가 이것을 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "스토리",
+    "ModeClass": "스토리",
+    "BeforeCharacter": {
+      "name": "토니토니 쵸파 - 중량 강화",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/22"
+    },
+    "AfterCharacter": {
+      "name": "토니토니 쵸파 - 헤비 공",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1448"
+    }
+  }
+]

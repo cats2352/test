@@ -18,7 +18,9 @@ const SUB_FILTERS = [
   { key: '유대결전', label: '유대결전' },
   { key: '트레저맵', label: '트레저맵' },
   { key: '해적제', label: '해적제' },
-  { key: '기타', label: '기타' },
+  { key: '스토리', label: '스토리' },
+  { key: '타임모험', label: '타임모험' },
+  { key: '레일리교환소', label: '레일리교환소' },
 ];
 
 // 페이지네이션 설정
@@ -262,17 +264,14 @@ function openItemDetailModal(item, number) {
 function closeItemDetailModal() {
   itemDetail.style.display = 'none';
 }
-// 아이템 클릭 시 세부정보창 표시 (통일된 구조)
+// 아이템 클릭 시 세부정보창 표시
 function showItemDetail(item, number) {
   // 이미지 경로 정규화 (GitHub Pages 호환성)
   let imageSrc = item.maimg || '';
   if (imageSrc && !imageSrc.startsWith('http')) {
-    // GitHub Pages에서 올바른 경로로 변환
     if (imageSrc.startsWith('test/')) {
-      // test/로 시작하는 경로는 그대로 유지 (GitHub Pages 프로젝트 루트 기준)
       imageSrc = imageSrc;
     } else if (!imageSrc.startsWith('/')) {
-      // 상대 경로인 경우 test/ 접두사 추가
       imageSrc = 'test/' + imageSrc;
     }
   }
@@ -281,6 +280,26 @@ function showItemDetail(item, number) {
   const itemName = item.Name || '알 수 없는 아이템';
   const itemDescription = item.Description || '설명이 없습니다.';
   const itemGetIt = item['Get it'] || '획득처 정보가 없습니다.';
+  
+  // 초진재료 아이템인 경우 추가 정보 표시
+  const isAwakeningMaterial = currentFilter === '초진재료';
+  
+  // 캐릭터 정보 처리
+  function formatCharacterLink(characterInfo) {
+    if (!characterInfo) return '정보 없음';
+    if (typeof characterInfo === 'string') return characterInfo;
+    
+    const name = characterInfo.name || '정보 없음';
+    const link = characterInfo.link;
+    
+    if (link) {
+      return `<a href="${link}" class="character-link" target="_blank">${name}</a>`;
+    }
+    return name;
+  }
+  
+  const beforeCharacter = isAwakeningMaterial ? formatCharacterLink(item.BeforeCharacter) : '';
+  const afterCharacter = isAwakeningMaterial ? formatCharacterLink(item.AfterCharacter) : '';
   
   itemDetail.innerHTML = `
     <div class="modal-content">
@@ -302,12 +321,31 @@ function showItemDetail(item, number) {
             <span class="info-label">획득처</span>
             <span class="info-value">${itemGetIt}</span>
           </div>
+          ${isAwakeningMaterial ? `
+          <div class="info-item awakening-info">
+            <span class="info-label">초진 전 캐릭터</span>
+            <span class="info-value character-name">${beforeCharacter}</span>
+          </div>
+          <div class="info-item awakening-info">
+            <span class="info-label">초진 후 캐릭터</span>
+            <span class="info-value character-name">${afterCharacter}</span>
+          </div>
+          ` : ''}
         </div>
       </div>
     </div>
   `;
+  
+  // 캐릭터 링크 클릭 이벤트 처리
+  itemDetail.querySelectorAll('.character-link').forEach(link => {
+    link.onclick = (e) => {
+      e.stopPropagation(); // 모달 닫힘 방지
+    };
+  });
+  
   itemDetail.style.display = 'flex';
 }
+
 // popstate 이벤트 제거 (GitHub Pages 호환성)
 // window.addEventListener('popstate', () => { ... }); // 제거
 // 페이지 진입 시 URL 체크 제거 (GitHub Pages 호환성)
