@@ -2,6 +2,7 @@
 const FILTERS = [
   { key: 'all', label: '전체', file: 'all.json' },
   { key: '비전서', label: '비전서', file: '비전서.json' },
+  { key: '석판', label: '석판', file: '석판.json' },
   { key: '솜사탕', label: '솜사탕', file: '솜사탕.json' },
   { key: '경험치', label: '경험치', file: '경험치.json' },
   { key: '초진재료', label: '초진재료', file: '초진재료.json', hasSubFilter: true },
@@ -23,6 +24,7 @@ const SUB_FILTERS = [
   { key: '타임모험', label: '타임모험' },
   { key: '레일리교환소', label: '레일리교환소' },
   { key: '기타', label: '기타' },
+  { key: '획득불가', label: '획득불가' },
 ];
 
 // 페이지네이션 설정
@@ -53,7 +55,7 @@ function renderFilterBar() {
   const search = document.createElement('input');
   search.className = 'filter-search';
   search.type = 'text';
-  search.placeholder = '필 검색...';
+  search.placeholder = '필터 검색...';
   search.value = searchKeyword;
   search.oninput = (e) => {
     searchKeyword = e.target.value;
@@ -235,7 +237,14 @@ async function loadData(file) {
           const res = await fetch('src/db/' + f + '?v=' + Date.now());
           if (res.ok) {
             const data = await res.json();
-            if (Array.isArray(data)) allData.push(...data);
+            if (Array.isArray(data)) {
+              // 각 아이템에 파일 경로 정보 추가
+              const itemsWithPath = data.map(item => ({
+                ...item,
+                __filePath: f
+              }));
+              allData.push(...itemsWithPath);
+            }
           }
         } catch (e) { /* 개별 파일 에러 무시 */ }
       }
@@ -249,8 +258,13 @@ async function loadData(file) {
     const res = await fetch('src/db/' + file + '?v=' + Date.now()); // 캐시 방지
     if (!res.ok) throw new Error('데이터를 불러올 수 없습니다.');
     const data = await res.json();
-    currentData = data;
-    renderItemList(filterAndSort(data));
+    // 단일 파일 로드 시에도 파일 경로 정보 추가
+    const dataWithPath = data.map(item => ({
+      ...item,
+      __filePath: file
+    }));
+    currentData = dataWithPath;
+    renderItemList(filterAndSort(dataWithPath));
     itemDetail.style.display = 'none'; // 세부정보창 숨김
     renderFilterBar();
   } catch (e) {
@@ -283,8 +297,29 @@ function showItemDetail(item, number) {
   const itemDescription = item.Description || '설명이 없습니다.';
   const itemGetIt = item['Get it'] || '획득처 정보가 없습니다.';
   
-  // 초진재료 아이템인지 확인 (BeforeCharacter 또는 AfterCharacter 속성이 있는지 확인)
+  // 초진재료 아이템인지 확인
   const isAwakeningMaterial = item.BeforeCharacter || item.AfterCharacter;
+  
+  // 추천획득처로 표시할 카테고리 확인
+  const recommendedCategories = ['솜사탕', '비전서'];
+  
+  // 아이템의 카테고리 확인 (전체보기에서도 작동하도록)
+  let itemCategory = '';
+  if (currentFilter !== 'all') {
+    // 현재 선택된 필터가 있는 경우
+    itemCategory = FILTERS.find(f => f.key === currentFilter)?.label;
+  } else {
+    // 전체보기인 경우 파일명으로 카테고리 찾기
+    const matchingFilter = FILTERS.find(f => {
+      // 파일 경로에서 카테고리명 추출 (예: "src/db/솜사탕.json" -> "솜사탕")
+      const categoryFromPath = item.__filePath?.split('/')?.pop()?.replace('.json', '');
+      return f.label === categoryFromPath;
+    });
+    itemCategory = matchingFilter?.label || '';
+  }
+  
+  const isRecommendedCategory = recommendedCategories.includes(itemCategory);
+  const getItLabel = isRecommendedCategory ? '추천획득처' : '획득처';
   
   // 캐릭터 정보 처리
   function formatCharacterLink(characterInfo) {
@@ -320,7 +355,7 @@ function showItemDetail(item, number) {
             <span class="info-value">${itemDescription}</span>
           </div>
           <div class="info-item">
-            <span class="info-label">획득처</span>
+            <span class="info-label">${getItLabel}</span>
             <span class="info-value">${itemGetIt}</span>
           </div>
           ${isAwakeningMaterial ? `
