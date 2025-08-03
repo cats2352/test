@@ -99,5 +99,2079 @@
       "name": "토니토니 쵸파 - 헤비 공",
       "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1448"
     }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 니코 로빈",
+    "tuimg": "test/image/tumnail/1549-skull.png",
+    "maimg": "test/image/maimg/1549.png",
+    "Description": "호박색으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 ‘구하기 어렵다’.  아직 많은 수수께끼가 있지만, ‘니코 로빈 밀짚모자 일당’이 이것을 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "스토리",
+    "ModeClass": "스토리",
+    "BeforeCharacter": {
+      "name": "니코 로빈 - 밀짚모자 일당",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/709"
+    },
+    "AfterCharacter": {
+      "name": "니코 로빈 - 밀 플루르 캄포 데 플로레스",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1549"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 프랑키",
+    "tuimg": "test/image/tumnail/1550-skull.png",
+    "maimg": "test/image/maimg/1550.png",
+    "Description": "칠흑으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 ‘구하기 어렵다’. 아직 많은 수수께끼가 있지만, ‘프랑키 밀짚모자 일당’이 이것을 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "스토리",
+    "ModeClass": "스토리",
+    "BeforeCharacter": {
+      "name": "프랑키 - 밀짚모자 일당",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/739"
+    },
+    "AfterCharacter": {
+      "name": "프랑키 - 프랑키 로켓 런처",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1550"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 브룩",
+    "tuimg": "test/image/tumnail/1551-skull.png",
+    "maimg": "test/image/maimg/1551.png",
+    "Description": "비취색으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 ‘구하기 어렵다’. 아직 많은 수수께끼가 있지만, ‘브룩 밀짚모자 일당’이 이것을 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "스토리",
+    "ModeClass": "스토리",
+    "BeforeCharacter": {
+      "name": "브룩 - 밀짚모자 일당",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/896"
+    },
+    "AfterCharacter": {
+      "name": "브룩 - 흥얼흥얼 눈보라 베기",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1551"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 빈스모크 저지",
+    "tuimg": "test/image/tumnail/2138-skull.png",
+    "maimg": "test/image/maimg/2138.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 저지 과학전투부대 제르마 66’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "빈스모크 저지 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1832"
+    },
+    "AfterCharacter": {
+      "name": "가루다 빈스모크 저지 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2138"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 -빈스모크 레이주",
+    "tuimg": "test/image/tumnail/2139-skull.png",
+    "maimg": "test/image/maimg/2139.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 레이주 과학전투부대 제르마 66’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "빈스모크 레이주 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1834"
+    },
+    "AfterCharacter": {
+      "name": "포이즌 핑크 빈스모크 레이주 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2139"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 빈스모크 이치디",
+    "tuimg": "test/image/tumnail/2140-skull.png",
+    "maimg": "test/image/maimg/2140.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 레이주 과학전투부대 제르마 66’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "빈스모크 이치디 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1836"
+    },
+    "AfterCharacter": {
+      "name": "스파킹 레드 빈스모크 이치디 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2140"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 빈스모크 니디",
+    "tuimg": "test/image/tumnail/2141-skull.png",
+    "maimg": "test/image/maimg/2141.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 니디 과학전투부대 제르마 66’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "빈스모크 니디 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1838"
+    },
+    "AfterCharacter": {
+      "name": "전격 블루 빈스모크 니디 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2141"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 빈스모크 욘디",
+    "tuimg": "test/image/tumnail/2142-skull.png",
+    "maimg": "test/image/maimg/2142.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 욘디 과학전투부대 제르마 66’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "빈스모크 욘디 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1840"
+    },
+    "AfterCharacter": {
+      "name": "윈치 그린 빈스모크 욘디 - 과학전투부대 제르마",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2142"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 갓 에넬",
+    "tuimg": "test/image/tumnail/2232-skull.png",
+    "maimg": "test/image/maimg/2232.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. ‘갓 에넬 대해적 시대의 사투 ‘끝없는 대지’’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "갓 에넬 - 대해적 시대의 사투 끝없는 대지",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1610"
+    },
+    "AfterCharacter": {
+      "name": "갓 에넬 - 끝없는 대지로의 귀환",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2232"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 돈키호테 도플라밍고",
+    "tuimg": "test/image/tumnail/2444-skull.png",
+    "maimg": "test/image/maimg/2444.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. ‘갓 에넬 대해적 시대의 사투 ‘끝없는 대지’’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "천야차 도플라밍고",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/870"
+    },
+    "AfterCharacter": {
+      "name": "돈키호테 도플라밍고 - 신의 제재",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2444"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 히그마",
+    "tuimg": "test/image/tumnail/2259-skull.png",
+    "maimg": "test/image/maimg/2259.png",
+    "Description": "붉은 색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘히그마 제 1급 지명수배자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "히그마 - 제 급 현상수배자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2258"
+    },
+    "AfterCharacter": {
+      "name": "히그마 - 산적 두목",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/search/2259"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 프랑키",
+    "tuimg": "test/image/tumnail/2300-skull.png",
+    "maimg": "test/image/maimg/2300.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘프랑키 미래국의 초 과학 병기’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "프랑키 - 미래국의 초 과학 병기",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1935"
+    },
+    "AfterCharacter": {
+      "name": "프랑키 - 남자의 로망을 간직한 개조인간",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2300"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 하쿠바",
+    "tuimg": "test/image/tumnail/2357-skull.png",
+    "maimg": "test/image/maimg/2357.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘백마의 캐번디시’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "백마의 캐번디시",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1123"
+    },
+    "AfterCharacter": {
+      "name": "하쿠바 - 롬멜의 칼바람",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2357"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 보아 행콕",
+    "tuimg": "test/image/tumnail/2434-skull.png",
+    "maimg": "test/image/maimg/2434.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘보아 행콕 밀짚모자 루피의 공범자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "보아 행콕 - 밀짚모자 루피의 공범자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1747"
+    },
+    "AfterCharacter": {
+      "name": "보아 행콕 - 밀짚모자 루피의 지원자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2434"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 빈스모크 이치디",
+    "tuimg": "test/image/tumnail/2448-skull.png",
+    "maimg": "test/image/maimg/2448.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 이치디 제르마 왕가 장남’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "빈스모크 이치디 - 제르마 왕가 장남",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2447"
+    },
+    "AfterCharacter": {
+      "name": "빈스모크 이치디 - 제르마 붉은 섬광",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2448"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 빈스모크 니디",
+    "tuimg": "test/image/tumnail/2450-skull.png",
+    "maimg": "test/image/maimg/2450.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 니디 제르마 왕가 차남’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "빈스모크 니디 - 제르마 왕가 차남",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2449"
+    },
+    "AfterCharacter": {
+      "name": "빈스모크 니디 - 제르마 푸른 전광",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2450"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 빈스모크 욘디",
+    "tuimg": "test/image/tumnail/2452-skull.png",
+    "maimg": "test/image/maimg/2452.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 욘디 제르마 왕가 4남’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "빈스모크 욘디 - 제르마 왕가 남",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2451"
+    },
+    "AfterCharacter": {
+      "name": "빈스모크 욘디 - 제르마 녹색 강완",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2452"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 빈스모크 레이주",
+    "tuimg": "test/image/tumnail/2454-skull.png",
+    "maimg": "test/image/maimg/2454.png",
+    "Description": "칠흑으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 레이주 제르마 왕가 장녀’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "빈스모크 레이주 - 제르마 왕가 장녀",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2453"
+    },
+    "AfterCharacter": {
+      "name": "빈스모크 레이주 - 제르마 분홍 독니",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2454"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 나미",
+    "tuimg": "test/image/tumnail/2588-skull.png",
+    "maimg": "test/image/maimg/2588.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘나미 세계를 속이는 도둑고양이’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "나미 - 세계를 속이는 도둑고양이",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2076"
+    },
+    "AfterCharacter": {
+      "name": "나미 - 신세계를 속이는 도둑 고양이",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2588"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 더글라스 불릿",
+    "tuimg": "test/image/tumnail/2681-skull.png",
+    "maimg": "test/image/maimg/2681.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘더블라스 불릿 귀신의 후예’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "더글라스 불릿 - 귀신의 후예",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2651"
+    },
+    "AfterCharacter": {
+      "name": "더글라스 불릿 - 목적을 잃은 괴물",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2681"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 카타쿠리",
+    "tuimg": "test/image/tumnail/2739-skull.png",
+    "maimg": "test/image/maimg/2739.png",
+    "Description": "칠흑으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘샬롯 카타쿠리 빅 맘 해적단 3장성’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "샬롯 카타쿠리 - 빅 맘 해적단 장성",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2113"
+    },
+    "AfterCharacter": {
+      "name": "카타쿠리 - 장성 최강의 사내",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2739"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 사이퍼 폴 No.9 「개」",
+    "tuimg": "test/image/tumnail/2886-skull.png",
+    "maimg": "test/image/maimg/2886.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘사이퍼 폴 No.9 스팬담&믿음직한 부하들’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "결전 11성",
+    "ModeClass": "기타",
+    "BeforeCharacter": {
+      "name": "사이퍼 폴 - 스팬담믿음직한 부하들",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2885"
+    },
+    "AfterCharacter": {
+      "name": "사이퍼 폴 개 - 스팬담믿음직한 부하들",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2886"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 흰수염",
+    "tuimg": "test/image/tumnail/2909-skull.png",
+    "maimg": "test/image/maimg/2909.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘흰 수염 말로 형용할 수 없는 분노’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "타임모험",
+    "ModeClass": "타임모험",
+    "BeforeCharacter": {
+      "name": "흰 수염 말로 형용할 수 없는 분노",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2686"
+    },
+    "AfterCharacter": {
+      "name": "흰수염 - End of the Long Journey",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2909"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 카이도 「개」",
+    "tuimg": "test/image/tumnail/2923-skull.png",
+    "maimg": "test/image/maimg/2923.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘카이도 나라를 지킨 ‘명왕’’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "결전 11성",
+    "ModeClass": "기타",
+    "BeforeCharacter": {
+      "name": "카이도 - 나라를 지킨 명왕",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2922"
+    },
+    "AfterCharacter": {
+      "name": "카이도 개 - 나라를 지킨 명왕",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2923"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 검은 수염",
+    "tuimg": "test/image/tumnail/3154-skull.png",
+    "maimg": "test/image/maimg/3154.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘검은 수염 검은 수염 해적단 선장’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "검은 수염 - 검은 수염 해적단 선장",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1268"
+    },
+    "AfterCharacter": {
+      "name": "검은 수염 - 빼앗은 세계를 멸망시킬 힘",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3154"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 롤로노아 조로",
+    "tuimg": "test/image/tumnail/3202-skull.png",
+    "maimg": "test/image/maimg/3202.png",
+    "Description": "칠흑으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘롤로노아 조로 번뜩이는 ‘대검호’의 편린’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "롤로노아 조로 - 번뜩이는 대검호의 편린",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2477"
+    },
+    "AfterCharacter": {
+      "name": "롤로노아 조로 - 새장을 벗어나는 흑도",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3202"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 상디",
+    "tuimg": "test/image/tumnail/3211-skull.png",
+    "maimg": "test/image/maimg/3211.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빈스모크 상디 제르마 왕국의 구세주’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "빈스모크 상디 - 제르마 왕국의 구세주",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2148"
+    },
+    "AfterCharacter": {
+      "name": "상디 - 기뻐하는 얼굴을 기대하는 웨딩 케이크",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3211"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 매의 눈 미호크",
+    "tuimg": "test/image/tumnail/3240-skull.png",
+    "maimg": "test/image/maimg/3240.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘쥬라큘 미호크 인도하는 ‘대검호’의 경지’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "쥬라큘 미호크 - 인도하는 대검호의 경지",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2475"
+    },
+    "AfterCharacter": {
+      "name": "매의 눈 미호크 - 세계 최강의 검사의 가르침",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3240"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 오나미",
+    "tuimg": "test/image/tumnail/3275-skull.png",
+    "maimg": "test/image/maimg/3275.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘오나미 신참 쿠노이치’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "오나미 - 신참 쿠노이치",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2774"
+    },
+    "AfterCharacter": {
+      "name": "오나미 - 매혹의 여닌자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3275"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 샬롯 크래커",
+    "tuimg": "test/image/tumnail/3298-skull.png",
+    "maimg": "test/image/maimg/3298.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘샬롯 크래커 천수와도 같은 맹공’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "샬롯 크래커 - 천수와도 같은 맹공",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2465"
+    },
+    "AfterCharacter": {
+      "name": "샬롯 크래커 - 무한 비스킷의 공포",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3298"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 코무라사키",
+    "tuimg": "test/image/tumnail/3350-skull.png",
+    "maimg": "test/image/maimg/3350.png",
+    "Description": "칠흑으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘오이란 코무라사키’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "오이란 코무라사키",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2776"
+    },
+    "AfterCharacter": {
+      "name": "코무라사키 - 오이란의 최후",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3350"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 구사 해적단",
+    "tuimg": "test/image/tumnail/3352-skull.png",
+    "maimg": "test/image/maimg/3352.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘구사 해적단’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "구사 해적단",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3351"
+    },
+    "AfterCharacter": {
+      "name": "구사 해적단 - 강력한 여인 해적단",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3352"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 제르마 66",
+    "tuimg": "test/image/tumnail/3369-skull.png",
+    "maimg": "test/image/maimg/3369.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘제르마 66 복수의 과학전투부대’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "제르마 - 복수의 과학전투부대",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3071"
+    },
+    "AfterCharacter": {
+      "name": "제르마 - 과학의 힘의 진수",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3369"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 사보",
+    "tuimg": "test/image/tumnail/3393-skull.png",
+    "maimg": "test/image/maimg/3393.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘사보 ‘밀짚모자 루피’의 버팀목’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "사보 ‘밀짚모자 루피’의 버팀목",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2441"
+    },
+    "AfterCharacter": {
+      "name": "사보 - 의지를 잇는 붉은 불꽃",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3393"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 잭",
+    "tuimg": "test/image/tumnail/3397-skull.png",
+    "maimg": "test/image/maimg/3397.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘잭 날뛰는 가뭄해’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "잭 - 날뛰는 가뭄해",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3394"
+    },
+    "AfterCharacter": {
+      "name": "가뭄해 잭 - 짓밟는 재해",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3397"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 캐럿",
+    "tuimg": "test/image/tumnail/3417-skull.png",
+    "maimg": "test/image/maimg/3417.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘캐럿 신비스러운 백색 ‘스론(달의 사자)’’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "캐럿 - 신비스러운 백색 스론달의 사자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2338"
+    },
+    "AfterCharacter": {
+      "name": "캐럿 - 밤에 미소짓는 사자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3417"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 야마토",
+    "tuimg": "test/image/tumnail/3430-skull.png",
+    "maimg": "test/image/maimg/3430.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘야마토’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "야마토",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3429"
+    },
+    "AfterCharacter": {
+      "name": "야마토 - 카이도의 아들",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3430"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 잭",
+    "tuimg": "test/image/tumnail/3448-skull.png",
+    "maimg": "test/image/maimg/3448.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘잭 ‘코끼리코끼리 열매’의 고대종 능력자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "잭 - 코끼리코끼리 열매의 고대종 능력자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2433"
+    },
+    "AfterCharacter": {
+      "name": "잭 - 날려버리는 매머드",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3448"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 오링",
+    "tuimg": "test/image/tumnail/3450-skull.png",
+    "maimg": "test/image/maimg/3450.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘오링 준비 중인 사황’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "오링 - 준비 중인 사황",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3449"
+    },
+    "AfterCharacter": {
+      "name": "오이란 오링",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3450"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 샬롯 푸딩",
+    "tuimg": "test/image/tumnail/3469-skull.png",
+    "maimg": "test/image/maimg/3469.png",
+    "Description": "칠흑으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘샬롯 푸딩 사랑을 위한 결별’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "샬롯 푸딩 - 사랑을 위한 결별",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2837"
+    },
+    "AfterCharacter": {
+      "name": "샬롯 푸딩 - 결별 후에",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3469"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 클리크 해적단",
+    "tuimg": "test/image/tumnail/3490-skull.png",
+    "maimg": "test/image/maimg/3490.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘수령 클리크 무력을 사용한 반격’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "수령 클리크 - 무력을 사용한 반격",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3489"
+    },
+    "AfterCharacter": {
+      "name": "클리크 해적단",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3490"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - ‘소울 킹’ 브룩",
+    "tuimg": "test/image/tumnail/3510-skull.png",
+    "maimg": "test/image/maimg/3510.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘‘소울 킹’ 브룩 영혼의 스페셜 라이브’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "소울 킹 브룩 - 영혼의 스페셜 라이브",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2236"
+    },
+    "AfterCharacter": {
+      "name": "브룩 - 뇌운을 베는 소울 킹",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3510"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 코즈키 오뎅",
+    "tuimg": "test/image/tumnail/3519-skull.png",
+    "maimg": "test/image/maimg/3519.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘코즈키 오뎅 와노쿠니 쇼군의 후계자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "코즈키 오뎅 - 와노쿠니 쇼군의 후계자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3175"
+    },
+    "AfterCharacter": {
+      "name": "코즈키 오뎅 - 용에 도전하는 사무라이",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3519"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 검은 수염",
+    "tuimg": "test/image/tumnail/3532-skull.png",
+    "maimg": "test/image/maimg/3532.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘마샬 D. 티치 사황이 된 남자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "마샬 티치 - 사황이 된 남자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3531"
+    },
+    "AfterCharacter": {
+      "name": "검은 수염 - 어둠과 지진의 위협",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3532"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 돈키호테 도플라밍고",
+    "tuimg": "test/image/tumnail/3550-skull.png",
+    "maimg": "test/image/maimg/3550.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘‘천야차’ 도플라밍고 새장의 지배자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "천야차 도플라밍고 - 새장의 지배자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1910"
+    },
+    "AfterCharacter": {
+      "name": "돈키호테 도플라밍고 - 분노의 학살",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3550"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 오로치",
+    "tuimg": "test/image/tumnail/3572-skull.png",
+    "maimg": "test/image/maimg/3572.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘오로치 용서치 않는 분노’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "오로치 - 용서치 않는 분노",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3571"
+    },
+    "AfterCharacter": {
+      "name": "오로치 - 분노의 야마타노오로치",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3572"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 쿠잔",
+    "tuimg": "test/image/tumnail/3592-skull.png",
+    "maimg": "test/image/maimg/3592.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘쿠잔 천하를 가른 사투’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "쿠잔 - 천하를 가른 사투",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2025"
+    },
+    "AfterCharacter": {
+      "name": "쿠잔 - 갑자기 나타난 전 대장",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3592"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 코즈키 오뎅",
+    "tuimg": "test/image/tumnail/3620-skull.png",
+    "maimg": "test/image/maimg/3620.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘코즈키 오뎅 동경하는 넓은 바다’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "코즈키 오뎅 - 동경하는 넓은 바다",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3619"
+    },
+    "AfterCharacter": {
+      "name": "코즈키 오뎅 - 마지막 섬을 향한 여행",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3620"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 사카즈키 원수",
+    "tuimg": "test/image/tumnail/3625-skull.png",
+    "maimg": "test/image/maimg/3625.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘천하를 가른 사투’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "사카즈키 - 천하를 가른 사투",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2023"
+    },
+    "AfterCharacter": {
+      "name": "사카즈키 원수 - 악을 용서치 않는 원수",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3625"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 골 D. 로저",
+    "tuimg": "test/image/tumnail/3627-skull.png",
+    "maimg": "test/image/maimg/3627.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘골 D. 로저 꿈을 꾸는 대해적’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "골 D. 로저 - 꿈을 꾸는 대해적",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3626"
+    },
+    "AfterCharacter": {
+      "name": "골 D. 로저 - 도달한 마지막 섬",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3627"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 샬롯 카타쿠리",
+    "tuimg": "test/image/tumnail/3666-skull.png",
+    "maimg": "test/image/maimg/3666.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘샬롯 카타쿠리 사내의 승부’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "샬롯 카타쿠리 - 사내의 승부",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2365"
+    },
+    "AfterCharacter": {
+      "name": "샬롯 카타쿠리 - 혼신의 일격",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3666"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 몽키 D. 루피",
+    "tuimg": "test/image/tumnail/3669-skull.png",
+    "maimg": "test/image/maimg/3669.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘몽키 D. 루피 바다를 마음껏 즐기는 선장’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "몽키 D. 루피 - 바다를 마음껏 즐기는 선장",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3668"
+    },
+    "AfterCharacter": {
+      "name": "몽키 D. 루피 - 바다에서 빛나는 선장",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3669"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 금사자 시키",
+    "tuimg": "test/image/tumnail/3693-skull.png",
+    "maimg": "test/image/maimg/3693.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘시키 하늘에서 바다를 지배하는 전설’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "시키 - 전설의 해적",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2201"
+    },
+    "AfterCharacter": {
+      "name": "금사자 시키 - 하늘에서 바다를 지배하는 전설",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3693"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 우타",
+    "tuimg": "test/image/tumnail/3713-skull.png",
+    "maimg": "test/image/maimg/3713.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘우타 꿈꾸는 우타 월드’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "우타 - 꿈꾸는 우타 월드",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3701"
+    },
+    "AfterCharacter": {
+      "name": "우타 - 꿈이 이루어지는 우타 월드",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3713"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 사보",
+    "tuimg": "test/image/tumnail/3718-skull.png",
+    "maimg": "test/image/maimg/3718.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘사보 ‘유대’를 비추는 불꽃’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "사보 - 유대를 비추는 불꽃",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2960"
+    },
+    "AfterCharacter": {
+      "name": "사보 - 신에 대한 선전 포고",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3718"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 샹크스",
+    "tuimg": "test/image/tumnail/3720-skull.png",
+    "maimg": "test/image/maimg/3720.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘샹크스 저지하는 사황’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "샹크스 - 저지하는 사황",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3719"
+    },
+    "AfterCharacter": {
+      "name": "빨간 머리 샹크스 - 딸을 생각하는 아버지",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3720"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 우타",
+    "tuimg": "test/image/tumnail/3721-skull.png",
+    "maimg": "test/image/maimg/3721.png",
+    "Description": "칠흑으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘우타 평화를 이루는 노래’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": " 우타 - 평화를 이루는 노래",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3816"
+    },
+    "AfterCharacter": {
+      "name": "우타 - 마왕을 부르는 노랫소리",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3721"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 검은 수염",
+    "tuimg": "test/image/tumnail/3739-skull.png",
+    "maimg": "test/image/maimg/3739.png",
+    "Description": "칠흑으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘검은 수염 사황’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": " 검은 수염 - 사황",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2964"
+    },
+    "AfterCharacter": {
+      "name": "검은 수염 - 군림하는 사황",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3739"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 에이스",
+    "tuimg": "test/image/tumnail/3742-skull.png",
+    "maimg": "test/image/maimg/3742.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘에이스 트릭스터 플레임 울프 Happy Halloween’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "에이스 트릭스터 플레임 울프 - Happy Halloween",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2741"
+    },
+    "AfterCharacter": {
+      "name": "에이스 라이엇 플레임 울프 - Happy Halloween",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3742"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 유스타스 ‘캡틴’ 키드",
+    "tuimg": "test/image/tumnail/3762-skull.png",
+    "maimg": "test/image/maimg/3762.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘유스타스 키드 용에게 도전하는 자기장의 ‘캡틴’’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "유스타스 키드 - 용에게 도전하는 자기장의 캡틴",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2980"
+    },
+    "AfterCharacter": {
+      "name": "유스타스 캡틴 키드 - 배신자에 대한 분노",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3762"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 브룩",
+    "tuimg": "test/image/tumnail/3764-skull.png",
+    "maimg": "test/image/maimg/3764.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘브룩 결전 준비를 위한 갑옷 차림’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "브룩 - 결전 준비를 위한 갑옷 차림",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3763"
+    },
+    "AfterCharacter": {
+      "name": "브룩 - 습격에 임하는 갑옷 무사",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3764"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 토니토니 쵸파",
+    "tuimg": "test/image/tumnail/3784-skull.png",
+    "maimg": "test/image/maimg/3784.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘토니토니 쵸파 고대하는 선물’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "토니토니 쵸파 - 고대하는 선물",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2797"
+    },
+    "AfterCharacter": {
+      "name": "토니토니 쵸파 - 성야에 빛나는 선물",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3784"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 골 D. 로저",
+    "tuimg": "test/image/tumnail/3786-skull.png",
+    "maimg": "test/image/maimg/3786.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘골 D. 로저 로저 해적단 선장’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "골 D. 로저 - 로저 해적단 선장",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3177"
+    },
+    "AfterCharacter": {
+      "name": "골 D. 로저 - 강자끼리의 격투",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3786"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 슈거",
+    "tuimg": "test/image/tumnail/3805-skull.png",
+    "maimg": "test/image/maimg/3805.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘슈거 장난감들의 여왕’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "슈거 - 장난감들의 여왕",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3009"
+    },
+    "AfterCharacter": {
+      "name": "슈거 - 목숨을 쥔 장난감 여왕",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3805"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 돈키호테 도플라밍고",
+    "tuimg": "test/image/tumnail/3807-skull.png",
+    "maimg": "test/image/maimg/3807.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘돈키호테 도플라밍고 퇴장으로 몰아넣는 총탄실’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "돈키호테 도플라밍고 - 퇴장으로 몰아넣는 총탄실",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3806"
+    },
+    "AfterCharacter": {
+      "name": "돈키호테 도플라밍고 - 평화를 닫는 새장",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3807"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 몽키 D. 루피",
+    "tuimg": "test/image/tumnail/3814-skull.png",
+    "maimg": "test/image/maimg/3814.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘몽키 D. 루피 경쟁하는 선장들’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "몽키 D. 루피 - 경쟁하는 선장들",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3334"
+    },
+    "AfterCharacter": {
+      "name": "몽키 D. 루피 - 뜻을 이어받은 밀짚모자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3814"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 우타",
+    "tuimg": "test/image/tumnail/3816-skull.png",
+    "maimg": "test/image/maimg/3816.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘우타 마왕을 부르는 노랫소리’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "우타 - 마왕을 부르는 노랫소리",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3721"
+    },
+    "AfterCharacter": {
+      "name": "우타 - 노랫소리가 불러오는 종언",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3816"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 이누아라시&네코마무시",
+    "tuimg": "test/image/tumnail/3828-skull.png",
+    "maimg": "test/image/maimg/3828.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘이누아라시&네코마무시 분투하는 낮과 밤의 왕’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "이누아라시 네코마무시 - 분투하는 낮과 밤의 왕",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2577"
+    },
+    "AfterCharacter": {
+      "name": "이누아라시 네코마무시 - 달밤에 빛나는 두 왕",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3828"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 빨간 머리 해적단",
+    "tuimg": "test/image/tumnail/3845-skull.png",
+    "maimg": "test/image/maimg/3845.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빨간 머리 해적단 친구를 위해 싸우는 해적단’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "빨간 머리 해적단 - 친구를 위해 싸우는 해적단",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2862"
+    },
+    "AfterCharacter": {
+      "name": "빨간 머리 해적단 - 막아서는 사황",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3845"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 몽키 D. 가프",
+    "tuimg": "test/image/tumnail/3848-skull.png",
+    "maimg": "test/image/maimg/3848.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘몽키 D. 가프 손자에 대한 노여움’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "몽키 가프 - 손자에 대한 노여움",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3847"
+    },
+    "AfterCharacter": {
+      "name": "몽키 가프 - 꼬맹이들에게 향한 철권",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3848"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 루피&로&키드",
+    "tuimg": "test/image/tumnail/3857-skull.png",
+    "maimg": "test/image/maimg/3857.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘루피&로&키드’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "만우절이벤트(획득불가)",
+    "ModeClass": "기타",
+    "BeforeCharacter": {
+      "name": "루피&로&키드",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3856"
+    },
+    "AfterCharacter": {
+      "name": "루피&로&키드 - 눈앞에 다가온 화염",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3857"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 바르톨로메오&하쿠바",
+    "tuimg": "test/image/tumnail/3868-skull.png",
+    "maimg": "test/image/maimg/3868.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘바르톨로메오&캐번디시 함께 싸우는 식인종과 귀공자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "바르톨로메오&캐번디시 - 함께 싸우는 식인종과 귀공자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2418"
+    },
+    "AfterCharacter": {
+      "name": "바르톨로메오&하쿠바 - 꽃을 지키는 식인종과 칼바람",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3868"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 몽키 D. 루피",
+    "tuimg": "test/image/tumnail/3886-skull.png",
+    "maimg": "test/image/maimg/3886.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘몽키 D. 루피 밀짚모자 일당 격전의 궤적’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "해적왕의 궤적 교환소",
+    "ModeClass": "궤적",
+    "BeforeCharacter": {
+      "name": "몽키 D. 루피 - 밀짚모자 일당 격전의 궤적",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2936"
+    },
+    "AfterCharacter": {
+      "name": "몽키 D. 루피 - 사황을 뛰어넘는 남자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3886"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 제우스&프로메테우스&빅 맘",
+    "tuimg": "test/image/tumnail/3902-skull.png",
+    "maimg": "test/image/maimg/3902.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘제우스&프로메테우스&빅 맘 ‘소울 랜드’의 주인들’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "제우스프로메테우스빅 맘 - 소울 랜드의 주인들",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2536"
+    },
+    "AfterCharacter": {
+      "name": "제우스프로메테우스빅 맘 - 신세대를 궁지로 몰아넣는 사황",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3902"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 카이도",
+    "tuimg": "test/image/tumnail/3903-skull.png",
+    "maimg": "test/image/maimg/3903.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘카이도 휘두르는 철퇴’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "카이도 - 휘두르는 철퇴",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3887"
+    },
+    "AfterCharacter": {
+      "name": "카이도 - 귀신의 아이에게 내리는 제재",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3903"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 루피&에이스",
+    "tuimg": "test/image/tumnail/3920-skull.png",
+    "maimg": "test/image/maimg/3920.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘루피&에이스 높은 곳에 있는 해적’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "루피에이스 - 높은 곳에 있는 해적",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/1985"
+    },
+    "AfterCharacter": {
+      "name": "루피에이스 - 환상의 호흡을 보여주는 의형제",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3920"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 나미&로빈",
+    "tuimg": "test/image/tumnail/3940-skull.png",
+    "maimg": "test/image/maimg/3940.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘나미&로빈 릴렉스 타임 중인 두 여성’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "나미로빈 - 릴렉스 타임 중인 두 여성",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2835"
+    },
+    "AfterCharacter": {
+      "name": "나미로빈 - 전장에 핀 두 송이의 어여쁜 꽃",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3940"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 페로나",
+    "tuimg": "test/image/tumnail/3942-skull.png",
+    "maimg": "test/image/maimg/3942.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘페로나 갑자기 발생한 대사건’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "페로나 - 갑자기 발생한 대사건",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3941"
+    },
+    "AfterCharacter": {
+      "name": "페로나 - 울면서 오르는 여행길",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3942"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 몽키 D. 루피",
+    "tuimg": "test/image/tumnail/3957-skull.png",
+    "maimg": "test/image/maimg/3957.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘몽키 D. 루피 환상적인 새하얀 모습’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "몽키 D. 루피 - 환상적인 새하얀 모습",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3956"
+    },
+    "AfterCharacter": {
+      "name": "몽키 D. 루피 - 울려 퍼지는 해방의 드럼",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3957"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 상디&저지",
+    "tuimg": "test/image/tumnail/3969-skull.png",
+    "maimg": "test/image/maimg/3969.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘상디&저지 부자의 결별’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "상디저지 - 부자의 결별",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2446"
+    },
+    "AfterCharacter": {
+      "name": "상디저지 - 인연과의 결별",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3969"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 흰 수염&마르코",
+    "tuimg": "test/image/tumnail/3989-skull.png",
+    "maimg": "test/image/maimg/3989.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘흰 수염&마르코 정상전쟁의 격투’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "흰 수염마르코 - 정상전쟁의 격투",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2181"
+    },
+    "AfterCharacter": {
+      "name": "흰 수염마르코 - 정상전쟁의 사투",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3989"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 야마토",
+    "tuimg": "test/image/tumnail/3991-skull.png",
+    "maimg": "test/image/maimg/3991.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘야마토 달려 나가는 성안’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "야마토 - 달려 나가는 성안",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3990"
+    },
+    "AfterCharacter": {
+      "name": "야마토 - 막아내는 폭발",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3991"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 길드 테조로",
+    "tuimg": "test/image/tumnail/4000-skull.png",
+    "maimg": "test/image/maimg/4000.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘골든 테조로’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "해적페스티벌 교환소",
+    "ModeClass": "해적제",
+    "BeforeCharacter": {
+      "name": "골든 테조로",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2099"
+    },
+    "AfterCharacter": {
+      "name": "길드 테조로 - 사랑과 회한의 슬픈 말로",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4000"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 검은 팔 제파",
+    "tuimg": "test/image/tumnail/4010-skull.png",
+    "maimg": "test/image/maimg/4010.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘검은 팔 제파 모든 해군을 키워낸 남자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "검은 팔 제파 - 모든 해군을 키워낸 남자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2330"
+    },
+    "AfterCharacter": {
+      "name": "검은 팔 제파 - 목숨을 건 매듭",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4010"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 블루노&베포&써니",
+    "tuimg": "test/image/tumnail/4033-skull.png",
+    "maimg": "test/image/maimg/4033.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘블루노&베포&써니’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "블루노베포써니",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4025"
+    },
+    "AfterCharacter": {
+      "name": "블루노베포써니 - 피해 다니는 작아진 사람들",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4033"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 몽키 D. 루피",
+    "tuimg": "test/image/tumnail/4037-skull.png",
+    "maimg": "test/image/maimg/4037.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘몽키 D. 루피 동료와 함께 ‘최강’을 뛰어넘는 자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "몽키 D. 루피 - 동료와 함께 최강을 뛰어넘는 자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2672"
+    },
+    "AfterCharacter": {
+      "name": "몽키 D. 루피 - 스스로 헤쳐 나가는 모험",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4037"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 유스타스 키드",
+    "tuimg": "test/image/tumnail/4039-skull.png",
+    "maimg": "test/image/maimg/4039.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘유스타스 키드 사황을 노리는 신세대’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "유스타스 키드 - 사황을 노리는 신세대",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4038"
+    },
+    "AfterCharacter": {
+      "name": "유스타스 캡틴 키드 - 찍어 누르는 자기",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4039"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 몽키 D. 루피",
+    "tuimg": "test/image/tumnail/4053-skull.png",
+    "maimg": "test/image/maimg/4053.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘몽키 D. 루피 전력을 다해 즐기는 축제의 미각’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "몽키 D. 루피 - 전력을 다해 즐기는 축제의 미각",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4047"
+    },
+    "AfterCharacter": {
+      "name": "몽키 D. 루피 - 와노쿠니를 수놓는 커다란 불꽃",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4053"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 빨간 머리 샹크스",
+    "tuimg": "test/image/tumnail/4056-skull.png",
+    "maimg": "test/image/maimg/4056.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘빨간 머리 샹크스 세계의 운명을 바꾼 사황’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "빨간 머리 샹크스 - 세계의 운명을 바꾼 사황",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2007"
+    },
+    "AfterCharacter": {
+      "name": "빨간 머리 샹크스 - 도래하는 신시대",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4056"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 트라팔가 로",
+    "tuimg": "test/image/tumnail/4063-skull.png",
+    "maimg": "test/image/maimg/4063.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘트라팔가 로 경쟁하는 선장들’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "트라팔가 로 - 경쟁하는 선장들",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3336"
+    },
+    "AfterCharacter": {
+      "name": "트라팔가 로 - 사일런트에 담는 은인의 의지",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4063"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 포트거스 D. 에이스",
+    "tuimg": "test/image/tumnail/4068-skull.png",
+    "maimg": "test/image/maimg/4068.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘포트거스 D. 에이스 해방된 ‘불주먹’’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "포트거스 에이스 - 해방된 불주먹",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4067"
+    },
+    "AfterCharacter": {
+      "name": "포트거스 에이스 - 사랑받은 남자의 최후",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4068"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 에드워드 뉴게이트",
+    "tuimg": "test/image/tumnail/4074-skull.png",
+    "maimg": "test/image/maimg/4074.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘에드워드 뉴게이트 분노의 제지’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "에드워드 뉴게이트 - 분노의 제지",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4066"
+    },
+    "AfterCharacter": {
+      "name": "에드워드 뉴게이트 - 가족을 빼앗는 자에 대한 분노",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4074"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 알베르",
+    "tuimg": "test/image/tumnail/4079-skull.png",
+    "maimg": "test/image/maimg/4079.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘킹 ‘루나리아족’의 생존자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "킹 - 루나리아족의 생존자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4078"
+    },
+    "AfterCharacter": {
+      "name": "알베르 - 오른팔끼리의 격투",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4079"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 카이도",
+    "tuimg": "test/image/tumnail/4080-skull.png",
+    "maimg": "test/image/maimg/4080.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘카이도 때려눕히는 방망이’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "카이도 - 때려눕히는 방망이",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3227"
+    },
+    "AfterCharacter": {
+      "name": "카이도 - 즐기는 사투",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4080"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 징베",
+    "tuimg": "test/image/tumnail/4089-skull.png",
+    "maimg": "test/image/maimg/4089.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘징베 거친 바다의 습격’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "징베 - 거친 바다의 습격",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4088"
+    },
+    "AfterCharacter": {
+      "name": "징베 - 거친 바다로부터의 구출",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4089"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 실버즈 레일리",
+    "tuimg": "test/image/tumnail/4098-skull.png",
+    "maimg": "test/image/maimg/4098.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘명왕 레일리 - 새로운 시대를 위한 전수’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "명왕 레일리 - 새로운 시대를 위한 전수",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2897"
+    },
+    "AfterCharacter": {
+      "name": "실버즈 레일리 - 가세하는 명왕",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4098"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 코비",
+    "tuimg": "test/image/tumnail/4108-skull.png",
+    "maimg": "test/image/maimg/4108.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 아직 많은 수수께끼가 있지만, ‘코비 ‘로키포트 사건’의 영웅’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "코비 - 로키포트 사건의 영웅",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4107"
+    },
+    "AfterCharacter": {
+      "name": "코비 - 격해지는 전투",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4108"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 아론 일당",
+    "tuimg": "test/image/tumnail/4118-skull.png",
+    "maimg": "test/image/maimg/4118.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘아론 일당 ‘최고의 종족’의 해적단’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "아론 일당 - 최고의 종족의 해적단",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2860"
+    },
+    "AfterCharacter": {
+      "name": "아론 일당 - 잔학한 제재",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4118"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - X 드레이크",
+    "tuimg": "test/image/tumnail/4120-skull.png",
+    "maimg": "test/image/maimg/4120.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘X 드레이크 쫓겨난 입장’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "드레이크 - 쫓겨난 입장",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4119"
+    },
+    "AfterCharacter": {
+      "name": "드레이크 - 명운을 거는 희망",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4120"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 루치&카쿠&스튜시",
+    "tuimg": "test/image/tumnail/4128-skull.png",
+    "maimg": "test/image/maimg/4128.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘루치&카쿠&스튜시 미래섬을 향하여’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "루치카쿠스튜시 - 미래섬을 향하여",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4127"
+    },
+    "AfterCharacter": {
+      "name": "루치카쿠스튜시 - 상륙하는 정부의 자객",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4128"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 몽키 D. 루피",
+    "tuimg": "test/image/tumnail/4131-skull.png",
+    "maimg": "test/image/maimg/4131.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘몽키 D. 루피 과학의 나라의 신기한 옷’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "몽키 D. 루피 - 과학의 나라의 신기한 옷",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4130"
+    },
+    "AfterCharacter": {
+      "name": "몽키 D. 루피 - 난동을 부리는 하얀 전사",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4131"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 쥬얼리 보니",
+    "tuimg": "test/image/tumnail/4139-skull.png",
+    "maimg": "test/image/maimg/4139.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘쥬얼리 보니 자유자재로 조종하는 연령’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "쥬얼리 보니 - 자유자재로 조종하는 연령",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3307"
+    },
+    "AfterCharacter": {
+      "name": "쥬얼리 보니 - 뒤쫓는 하나뿐인 가족",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4139"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 검은 수염",
+    "tuimg": "test/image/tumnail/4147-skull.png",
+    "maimg": "test/image/maimg/4147.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘검은 수염 노리는 ‘로드 포네그리프’’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "검은 수염 - 노리는 로드 포네그리프",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4146"
+    },
+    "AfterCharacter": {
+      "name": "검은 수염 - 시작된 최악의 세대 간의 싸움",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4147"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 몽키 D. 루피",
+    "tuimg": "test/image/tumnail/4162-skull.png",
+    "maimg": "test/image/maimg/4162.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘몽키 D. 루피 등을 맡길 수 있는 동료와 함께’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "몽키 D. 루피 - 등을 맡길 수 있는 동료와 함께",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3607"
+    },
+    "AfterCharacter": {
+      "name": "몽키 D. 루피 - 밀짚모자 일당",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4162"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 야마토",
+    "tuimg": "test/image/tumnail/4164-skull.png",
+    "maimg": "test/image/maimg/4164.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘야마토 배웅의 포옹’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "야마토 - 배웅의 포옹",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4163"
+    },
+    "AfterCharacter": {
+      "name": "야마토 - 따르는 같은 길",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4164"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 로브 루치",
+    "tuimg": "test/image/tumnail/4170-skull.png",
+    "maimg": "test/image/maimg/4170.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘로브 루치 전력의 일격’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "로브 루치 - 전력의 일격",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3422"
+    },
+    "AfterCharacter": {
+      "name": "로브 루치 - 처단하는 사령탑",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4170"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 쥬라큘 미호크",
+    "tuimg": "test/image/tumnail/4177-skull.png",
+    "maimg": "test/image/maimg/4177.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘쥬라큘 미호크 확인하는 흑도’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "쥬라큘 미호크 - 확인하는 흑도",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4176"
+    },
+    "AfterCharacter": {
+      "name": "매의 눈 미호크 - 힘을 인정하는 최강의 검사",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4177"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 트라팔가 로",
+    "tuimg": "test/image/tumnail/4185-skull.png",
+    "maimg": "test/image/maimg/4185.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘트라팔가 로 와노쿠니를 개국시킬 동맹’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "트라팔가 로 - 와노쿠니를 개국시킬 동맹",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3027"
+    },
+    "AfterCharacter": {
+      "name": "트라팔가 로 - 바위를 조종하는 손끝",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4185"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 아론",
+    "tuimg": "test/image/tumnail/4191-skull.png",
+    "maimg": "test/image/maimg/4191.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘아론 ‘불운’에 보내는 비웃음’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "아론 - 불운에 보내는 비웃음",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4190"
+    },
+    "AfterCharacter": {
+      "name": "아론 - 년 동안의 지배",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4191"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 보아 행콕",
+    "tuimg": "test/image/tumnail/4199-skull.png",
+    "maimg": "test/image/maimg/4199.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘보아 행콕 노을 지는 해변에서의 바캉스’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "보아 행콕 - 노을 지는 해변에서의 바캉스",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3038"
+    },
+    "AfterCharacter": {
+      "name": "보아 행콕 - 나이트 풀에서 느긋하게 쉬는 여제",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4199"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 겟코 모리아",
+    "tuimg": "test/image/tumnail/4201-skull.png",
+    "maimg": "test/image/maimg/4201.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘겟코 모리아 험한 세상의 이치를 아는 자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "겟코 모리아 - 험한 세상의 이치를 아는 자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4200"
+    },
+    "AfterCharacter": {
+      "name": "겟코 모리아 - 짓밟아버리는 새싹",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4201"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 포트거스 D. 에이스",
+    "tuimg": "test/image/tumnail/4206-skull.png",
+    "maimg": "test/image/maimg/4206.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘포트거스 D. 에이스 노리는 강자의 목’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "포트거스 에이스 - 노리는 강자의 목",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4205"
+    },
+    "AfterCharacter": {
+      "name": "포트거스 에이스 - 동료들을 지키는 불꽃벽",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4206"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 코즈키 히요리",
+    "tuimg": "test/image/tumnail/4209-skull.png",
+    "maimg": "test/image/maimg/4209.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘코즈키 히요리 묘 앞에서 모으는 두 손’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "코즈키 히요리 - 묘 앞에서 모으는 두 손",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4208"
+    },
+    "AfterCharacter": {
+      "name": "코즈키 히요리 - 울려 퍼지는 샤미센",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4209"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - 사카즈키 원수",
+    "tuimg": "test/image/tumnail/4217-skull.png",
+    "maimg": "test/image/maimg/4217.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘사카즈키 양보할 수 없는 ‘신념’과 ‘정의’’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "사카즈키 양보할 수 없는 ‘신념’과 ‘정의’",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3157"
+    },
+    "AfterCharacter": {
+      "name": "사카즈키 원수 - 새로운 시대에 대한 각오",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4217"
+    }
+  },
+
+  {
+    "Name": "호박 크리스탈 해골 - 베포",
+    "tuimg": "test/image/tumnail/4225-skull.png",
+    "maimg": "test/image/maimg/4225.png",
+    "Description": "호박색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘베포 캡틴을 지키는 항해사’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "베포 - 캡틴을 지키는 항해사",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4224"
+    },
+    "AfterCharacter": {
+      "name": "베포 - 캡틴을 지키는 스론",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4225"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 바질 호킨스",
+    "tuimg": "test/image/tumnail/4237-skull.png",
+    "maimg": "test/image/maimg/4237.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘‘마술사’ 바질 호킨스 용을 따르는 자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "마술사 바질 호킨스 - 용을 따르는 자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/2982"
+    },
+    "AfterCharacter": {
+      "name": "바질 호킨스 - 교활한 게임의 시작",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4237"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - 쿠잔",
+    "tuimg": "test/image/tumnail/4246-skull.png",
+    "maimg": "test/image/maimg/4246.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘쿠잔 스승에게 배운 삶의 방식’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "쿠잔 - 스승에게 배운 삶의 방식",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4245"
+    },
+    "AfterCharacter": {
+      "name": "쿠잔 - 스승에게 날리는 주먹",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4246"
+    }
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골 - 마젤란",
+    "tuimg": "test/image/tumnail/4256-skull.png",
+    "maimg": "test/image/maimg/4256.png",
+    "Description": "푸른색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘마젤란 절망을 주는 독’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "마젤란 - 절망을 주는 독",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3278"
+    },
+    "AfterCharacter": {
+      "name": "마젤란 - 형벌을 내리는 지옥의 주인",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4256"
+    }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골 - Dr. 베가펑크",
+    "tuimg": "test/image/tumnail/4261-skull.png",
+    "maimg": "test/image/maimg/4261.png",
+    "Description": "붉은색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘Dr. 베가펑크 펑크 하자드 연구소 소장’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "트레저맵 교환소",
+    "ModeClass": "트레저맵",
+    "BeforeCharacter": {
+      "name": "베가펑크 - 펑크 하자드 연구소 소장",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4260"
+    },
+    "AfterCharacter": {
+      "name": "베가펑크 - 바치는 꽃",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4261"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 페로나",
+    "tuimg": "test/image/tumnail/4263-skull.png",
+    "maimg": "test/image/maimg/4263.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘페로나 할로윈 고스트 프린세스 Night of Halloween’이 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "페로나 할로윈 고스트 프린세스 - Night of Halloween",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3454"
+    },
+    "AfterCharacter": {
+      "name": "페로나 미스티 고스트 프린세스 - Night of Halloween",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4263"
+    }
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골 - 롤로노아 조로",
+    "tuimg": "test/image/tumnail/4266-skull.png",
+    "maimg": "test/image/maimg/4266.png",
+    "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘롤로노아 조로 화염으로 향하는 일도’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "롤로노아 조로 - 화염으로 향하는 일도",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4265"
+    },
+    "AfterCharacter": {
+      "name": "롤로노아 조로 - 시험당하는 검사의 진가",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4266"
+    }
+  },
+
+  {
+    "Name": "비취 크리스탈 해골 - Sir 크로커다일",
+    "tuimg": "test/image/tumnail/4274-skull.png",
+    "maimg": "test/image/maimg/4274.png",
+    "Description": "비취색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘Sir 크로커다일 모래 왕국을 통솔하는 자’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
+    "BeforeCharacter": {
+      "name": "크로커다일 - 모래 왕국을 통솔하는 자",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3483"
+    },
+    "AfterCharacter": {
+      "name": "크로커다일 - 뜻밖의 보호",
+      "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4274"
+    }
   }
 ]

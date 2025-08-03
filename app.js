@@ -17,10 +17,12 @@ const SUB_FILTERS = [
   { key: 'all', label: '전체' },
   { key: '유대결전', label: '유대결전' },
   { key: '트레저맵', label: '트레저맵' },
+  { key: '궤적', label: '궤적' },
   { key: '해적제', label: '해적제' },
   { key: '스토리', label: '스토리' },
   { key: '타임모험', label: '타임모험' },
   { key: '레일리교환소', label: '레일리교환소' },
+  { key: '기타', label: '기타' },
 ];
 
 // 페이지네이션 설정
@@ -281,8 +283,8 @@ function showItemDetail(item, number) {
   const itemDescription = item.Description || '설명이 없습니다.';
   const itemGetIt = item['Get it'] || '획득처 정보가 없습니다.';
   
-  // 초진재료 아이템인 경우 추가 정보 표시
-  const isAwakeningMaterial = currentFilter === '초진재료';
+  // 초진재료 아이템인지 확인 (BeforeCharacter 또는 AfterCharacter 속성이 있는지 확인)
+  const isAwakeningMaterial = item.BeforeCharacter || item.AfterCharacter;
   
   // 캐릭터 정보 처리
   function formatCharacterLink(characterInfo) {
