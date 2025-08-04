@@ -2564,5 +2564,50 @@
       "name": "센토마루 – 화목한 식사",
       "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4417"
     }
+  },
+
+  {
+    "Name": "붉은 크리스탈 해골",
+    "tuimg": "test/image/tumnail/붉은 크리스탈 해골.png",
+    "maimg": "test/image/maimg/붉은 크리스탈 해골.png",
+    "Description": "붉은색으로 빛나는 수정으로 만든 해골. 매우 귀중하여 ‘입수하기 어렵다’. 누가 어떻게 만들었는지 베일에 싸여 있지만 위대한 호걸이 몸에 지니면 ‘초진화’라는 현상을 일으킨다는 소문이 있다.",
+    "Get it": "레일리교환소",
+    "ModeClass": "레일리교환소"
+  },
+
+  {
+    "Name": "푸른 크리스탈 해골",
+    "tuimg": "test/image/tumnail/푸른 크리스탈 해골.png",
+    "maimg": "test/image/maimg/푸른 크리스탈 해골.png",
+    "Description": "푸른색으로 빛나는 수정으로 만든 해골. 매우 귀중하여 ‘입수하기 어렵다’. 누가 어떻게 만들었는지 베일에 싸여 있지만 위대한 호걸이 몸에 지니면 ‘초진화’라는 현상을 일으킨다는 소문이 있다.",
+    "Get it": "레일리교환소",
+    "ModeClass": "레일리교환소"
+  },
+
+  {
+    "Name": "비취 크리스탈 해골",
+    "tuimg": "test/image/tumnail/비취 크리스탈 해골.png",
+    "maimg": "test/image/maimg/비취 크리스탈 해골.png",
+    "Description": "비취색으로 빛나는 수정으로 만든 해골. 매우 귀중하여 ‘입수하기 어렵다’. 누가 어떻게 만들었는지 베일에 싸여 있지만 위대한 호걸이 몸에 지니면 ‘초진화’라는 현상을 일으킨다는 소문이 있다.",
+    "Get it": "레일리교환소",
+    "ModeClass": "레일리교환소"
+  },
+
+  {
+    "Name": "호박 크리스탈 해골",
+    "tuimg": "test/image/tumnail/호박 크리스탈 해골.png",
+    "maimg": "test/image/maimg/호박 크리스탈 해골.png",
+    "Description": "호박색으로 빛나는 수정으로 만든 해골. 매우 귀중하여 ‘입수하기 어렵다’. 누가 어떻게 만들었는지 베일에 싸여 있지만 위대한 호걸이 몸에 지니면 ‘초진화’라는 현상을 일으킨다는 소문이 있다.",
+    "Get it": "레일리교환소",
+    "ModeClass": "레일리교환소"
+  },
+
+  {
+    "Name": "칠흑 크리스탈 해골",
+    "tuimg": "test/image/tumnail/칠흑 크리스탈 해골.png",
+    "maimg": "test/image/maimg/칠흑 크리스탈 해골.png",
+    "Description": "칠흑색으로 빛나는 수정으로 만든 해골. 매우 귀중하여 ‘입수하기 어렵다’. 누가 어떻게 만들었는지 베일에 싸여 있지만 위대한 호걸이 몸에 지니면 ‘초진화’라는 현상을 일으킨다는 소문이 있다.",
+    "Get it": "레일리교환소",
+    "ModeClass": "레일리교환소"
   }
 ]

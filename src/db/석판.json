@@ -1,5 +1,193 @@
 [
   {
-    "Name": "현재 데이터를 추가중에 있습니다."
+    "Name": "슬롯 봉쇄 내성 석판",
+    "tuimg": "test/image/tumnail/슬롯 봉쇄 내성 석판.png",
+    "maimg": "test/image/maimg/슬롯 봉쇄 내성 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘슬롯 봉쇄 내성’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "회복 무효 내성 석판",
+    "tuimg": "test/image/tumnail/회복 무효 내성 석판.png",
+    "maimg": "test/image/maimg/회복 무효 내성 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘회복 무효 내성’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "배리어 관통 석판",
+    "tuimg": "test/image/tumnail/배리어 관통 석판.png",
+    "maimg": "test/image/maimg/배리어 관통 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘배리어 관통’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "긴급 회복 석판",
+    "tuimg": "test/image/tumnail/긴급 회복 석판.png",
+    "maimg": "test/image/maimg/긴급 회복 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘긴급 회복’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "피격 시 공격력 상승/피격 데미지량 상승 내성 석판",
+    "tuimg": "test/image/tumnail/피격 시 공격력 상승피격 데미지량 상승 내성 석판.png",
+    "maimg": "test/image/maimg/피격 시 공격력 상승피격 데미지량 상승 내성 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘피격 시 공격력 상승/피격 데미지량 상승 내성’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "크리티컬 공격 석판",
+    "tuimg": "test/image/tumnail/크리티컬 공격 석판.png",
+    "maimg": "test/image/maimg/크리티컬 공격 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘크리티컬 공격’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "자신의 필살기 턴 수 단축 석판",
+    "tuimg": "test/image/tumnail/자신의 필살기 턴 수 단축 석판.png",
+    "maimg": "test/image/maimg/자신의 필살기 턴 수 단축 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘자신의 필살기 턴 수 단축 석판’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "필살기 이중 발동의 석판",
+    "tuimg": "test/image/tumnail/필살기 이중 발동의 석판.png",
+    "maimg": "test/image/maimg/필살기 이중 발동의 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘필살기 이중 발동’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "힘 속성 데미지 피해 감소 석판",
+    "tuimg": "test/image/tumnail/힘 속성 데미지 피해 감소 석판.png",
+    "maimg": "test/image/maimg/힘 속성 데미지 피해 감소 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘힘 속성 데미지 피해 감소’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "기 속성 데미지 피해 감소 석판",
+    "tuimg": "test/image/tumnail/기 속성 데미지 피해 감소 석판.png",
+    "maimg": "test/image/maimg/기 속성 데미지 피해 감소 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘기 속성 데미지 피해 감소’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "속 속성 데미지 피해 감소 석판",
+    "tuimg": "test/image/tumnail/속 속성 데미지 피해 감소 석판.png",
+    "maimg": "test/image/maimg/속 속성 데미지 피해 감소 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘속 속성 데미지 피해 감소’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "심 속성 데미지 피해 감소 석판",
+    "tuimg": "test/image/tumnail/심 속성 데미지 피해 감소 석판.png",
+    "maimg": "test/image/maimg/심 속성 데미지 피해 감소 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘심 속성 데미지 피해 감소’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "지 속성 데미지 피해 감소 석판",
+    "tuimg": "test/image/tumnail/지 속성 데미지 피해 감소 석판.png",
+    "maimg": "test/image/maimg/지 속성 데미지 피해 감소 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘지 속성 데미지 피해 감소’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "선박 효과 무효 내성 석판",
+    "tuimg": "test/image/tumnail/선박 효과 무효 내성 석판.png",
+    "maimg": "test/image/maimg/선박 효과 무효 내성 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘선박 효과 무효 내성’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "선원효과 무효 내성 석판",
+    "tuimg": "test/image/tumnail/선원효과 무효 내성 석판.png",
+    "maimg": "test/image/maimg/선원효과 무효 내성 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘선원효과 무효 내성’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "필살기 사용 횟수 제한 내성 석판",
+    "tuimg": "test/image/tumnail/필살기 사용 횟수 제한 내성 석판.png",
+    "maimg": "test/image/maimg/필살기 사용 횟수 제한 내성 석판.png",
+    "Description": "어디선가 발견되는 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘필살기 사용 횟수 제한 내성’의 레벨이 상승할 가능성이 있다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "슬롯 변환 불가 내성 석판",
+    "tuimg": "test/image/tumnail/슬롯 변환 불가 내성 석판.png",
+    "maimg": "test/image/maimg/슬롯 변환 불가 내성 석판.png",
+    "Description": "어디선가 발견되는 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘슬롯 변환 불가 내성’의 레벨이 상승할 가능성이 있다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "회복량 감소 내성 석판",
+    "tuimg": "test/image/tumnail/회복량 감소 내성 석판.png",
+    "maimg": "test/image/maimg/회복량 감소 내성 석판.png",
+    "Description": "어디선가 발견되는 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘회복량 감소 내성’의 레벨이 상승할 가능성이 있다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "회복 시 공격력 상승/공복 내성 석판",
+    "tuimg": "test/image/tumnail/회복 시 공격력 상승 공복 내성 석판.png",
+    "maimg": "test/image/maimg/회복 시 공격력 상승 공복 내성 석판.png",
+    "Description": "어디선가 발견되는 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘회복 시 공격력 상승/공복 내성’의 레벨이 상승할 가능성이 있다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "초 연계 기술 확정 석판",
+    "tuimg": "test/image/tumnail/초 연계 기술 확정 석판.png",
+    "maimg": "test/image/maimg/초 연계 기술 확정 석판.png",
+    "Description": "[잠재 능력 강화 재료]<br>어디선가 발견되는 신비한 석판. 잠재 능력 ‘초 연계 기술’을 해방한 상태로 캐릭터 합성에 사용하면 해당 잠재 능력의 레벨이 반드시 상승한다",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "필살기 삼중 발동 석판",
+    "tuimg": "test/image/tumnail/필살기 삼중 발동 석판.png",
+    "maimg": "test/image/maimg/필살기 삼중 발동 석판.png",
+    "Description": "어디선가 발견한 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘필살기 삼중 발동’의 Lv을 올릴 수 있을지도 모른다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "RUSH 와일드 기술 석판",
+    "tuimg": "test/image/tumnail/RUSH 와일드 기술 석판.png",
+    "maimg": "test/image/maimg/RUSH 와일드 기술 석판.png",
+    "Description": "어디선가 발견되는 신비한 석판. 캐릭터 합성에 사용하면 잠재 능력 ‘RUSH 와일드 기술’의 레벨이 상승할 가능성이 있다.",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "초 연계 공격 부스트 확정 석판",
+    "tuimg": "test/image/tumnail/초 연계 공격 부스트 확정 석판.png",
+    "maimg": "test/image/maimg/초 연계 공격 부스트 확정 석판.png",
+    "Description": "[잠재 능력 강화 재료]<br>어디선가 발견되는 신비한 석판. 잠재 능력 ‘초 연계 공격 부스트’를 해방한 상태로 캐릭터 합성에 사용하면 해당 잠재 능력의 레벨이 반드시 상승한다",
+    "Get it": "현재 등록된 정보가 없습니다."
+  },
+
+  {
+    "Name": "마지막 TAP 와일드 기술 확정 석판",
+    "tuimg": "test/image/tumnail/마지막 TAP 와일드 기술 확정 석판.png",
+    "maimg": "test/image/maimg/마지막 TAP 와일드 기술 확정 석판.png",
+    "Description": "[잠재 능력 강화 재료]<br>어디선가 발견되는 신비한 석판. 잠재 능력 ‘마지막 TAP 와일드 기술 확정 석판’를 해방한 상태로 캐릭터 합성에 사용하면 해당 잠재 능력의 레벨이 반드시 상승한다",
+    "Get it": "현재 등록된 정보가 없습니다."
   }
 ]

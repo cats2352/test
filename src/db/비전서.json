@@ -16,91 +16,91 @@
   {
     "Name": "비전서・데미지감소",
     "tuimg": "test/image/tumnail/비전서데미지감소.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서데미지감소.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘데미지 피해 감소’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다!"
   },
 
   {
     "Name": "비전서・필살기 턴 단축",
     "tuimg": "test/image/tumnail/비전서필살기턴단축.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・필살기 턴 단축.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘필살기 턴 단축’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다! "
   },
 
   {
     "Name": "비전서・봉쇄 내성",
     "tuimg": "test/image/tumnail/비전서봉쇄내성.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・봉쇄 내성.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘봉쇄 내성’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다!"
   },
 
   {
     "Name": "비전서・선장효과 무효 내성",
     "tuimg": "test/image/tumnail/비전서선장효과무효내성.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・선장효과 무효 내성.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘선장효과 무효 내성’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다!"
   },
 
   {
     "Name": "비전서・매 턴 회복",
     "tuimg": "test/image/tumnail/비전서매턴회복.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・매 턴 회복.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘매 턴 회복’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다!"
   },
 
   {
     "Name": "비전서・회복력 상승",
     "tuimg": "test/image/tumnail/비전서회복력상승.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・회복력 상승.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘회복력 상승’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다! "
   },
 
   {
     "Name": "비전서・슬롯 일치 확률 상승",
     "tuimg": "test/image/tumnail/비전서슬롯일치확률상승.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・슬롯 일치 확률 상승.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘슬롯 일치 확률 상승’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다! "
   },
 
   {
     "Name": "비전서・독 내성",
     "tuimg": "test/image/tumnail/비전서독내성.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・독 내성.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘맵 데미지 내성’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다!"
   },
 
   {
     "Name": "비전서・맵 데미지 내성",
     "tuimg": "test/image/tumnail/비전서맵데미지내성.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・맵 데미지 내성.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘회복력 상승’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다! "
   },
 
   {
     "Name": "비전서・가끔 체력 1로 버티기",
     "tuimg": "test/image/tumnail/비전서가끔체력1로버티기.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・가끔 체력 1로 버티기.png",
     "Description": "능력 슬롯이 있는 캐릭터에게 합성시키면 ‘가끔 체력 1로 버티기’의 힘을 일깨우는 신비한 책. 각 능력은 일당 모두의 합계 수치가 일정 이상이 되어야 발휘된다! "
   },
 
   {
     "Name": "비전서・원피스 월드 시커",
     "tuimg": "test/image/tumnail/비전서월드서커.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전서・원피스 월드 시커.png",
     "Description": "원피스 월드 시커 콜라보 기념품. 능력 슬롯이 있는 캐릭터에 합성시키면  ‘능력 해방’을 할 수 있고, 경험치 20만을 획득할 수 있다. ‘능력 해방’의 각 능력은 일당 전원의 합계치가 일정 이상이 되면 발휘할 수 있다!"
   },
 
   {
     "Name": "비전의 V 점프",
     "tuimg": "test/image/tumnail/비전의V점프.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전의 V 점프.png",
     "Description": "능력 슬롯이 있는 캐릭터에 합성시키면 ‘능력 해방’을 할 수 있는 신비한 V 점프. ‘능력 해방’의 각 능력은 일당 전원의 합계치가 일정 이상이 되면 발휘된다! 게다가 경험치를 20만 얻을 수 있다!"
   },
 
   {
     "Name": "비전의 소년 점프+",
     "tuimg": "test/image/tumnail/비전의V점프+.png",
-    "maimg": "test/image/maimg/비전서.png",
+    "maimg": "test/image/maimg/비전의 소년 점프+.png",
     "Description": "‘공격력’을 +5 강화하며 ‘능력 해방’도 할 수 있는 신비한 ‘소년 점프+’. 캐릭터에 합성시키면 ‘공격력’의 최대치를 10 올릴 수 있으며, 능력 슬롯이 있는 캐릭터라면 ‘능력 해방’도 할 수 있다!"
   }
 ] 

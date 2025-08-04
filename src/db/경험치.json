@@ -2,81 +2,81 @@
   {
     "Name": "빨간 파워스돼지",
     "tuimg": "test/image/tumnail/빨간 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/빨간 파워스돼지.png",
     "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다.진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 빨강. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "파란 파워스돼지",
     "tuimg": "test/image/tumnail/파란 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/파란 파워스돼지.png",
     "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다. 진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 파랑. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "초록 파워스돼지",
     "tuimg": "test/image/tumnail/초록 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/초록 파워스돼지.png",
     "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다. 진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 초록. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다..",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "노란 파워스돼지",
     "tuimg": "test/image/tumnail/노란 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/노란 파워스돼지.png",
     "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다. 진화하면 경험치 50000을 얻을 수 있다.<br>선호하는 스카프의 색은 노랑. 진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "검은 파워스돼지",
     "tuimg": "test/image/tumnail/검은 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/검은 파워스돼지.png",
     "Description": "연안에 서식하는 야생 돼지.<br>자라면 영양이 풍부한 성장의 원천이 된다. 진화하면 경험치 50000을 얻을 수 있다. 선호하는 스카프의 색은 보라.<br>진화시키는 방법은 세 가지 패턴이 있어서 진화시키기 쉽다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "루비 파워스돼지",
     "tuimg": "test/image/tumnail/루비 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/루비 파워스돼지.png",
     "Description": "연안에 서식하는 야생 멧돼지 무리의 보스.<br>성질이 고약하고 근처 민가에 몹쓸 짓을 하지만, 겉모습이 귀여워 차마 미워할 수가 없다. 빨란 색을 좋아한다.<br>목에 건 루비는 역대 보스로부터 물려받았다. 경험치는 50000",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "사파이어 파워스돼지",
     "tuimg": "test/image/tumnail/사파이어 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/사파이어 파워스돼지.png",
     "Description": "연안에 서식하는 야생 멧돼지 무리의 보스.<br>성격이 급해 같은 곳에 3초 이상 머무는 적이 없다. 파란색을 좋아한다. 목에 건 사파이어는 역대 보스로부터 물려받았다.<br>경험치는 50000",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "에메랄드 파워스돼지",
     "tuimg": "test/image/tumnail/에메랄드 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/에메랄드 파워스돼지.png",
     "Description": "연안에 서식하는 야생 멧돼지 무리의 보스.<br>성격이 온순해, 경계는 할지언정 함부로 공격하지는 않는다. 녹색을 좋아한다. 목에 건 에메랄드는 역대 보스로부터 물려받았다.<br>경험치는 50000",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "토파즈 파워스돼지",
     "tuimg": "test/image/tumnail/토파즈 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/토파즈 파워스돼지.png",
     "Description": "연안에 서식하는 야생 멧돼지 무리의 보스.<br>바다에서 파도에 밀려온 조난자를 구조한다는 소문이 있다. 좋아하는 색은 노랑. 목에 건 토파즈는 역대 보스로부터 물려받았다.<br>경험치는 50000",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "자수정 파워스돼지",
     "tuimg": "test/image/tumnail/자수정 파워스돼지.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/자수정 파워스돼지.png",
     "Description": "연안에 서식하는 야생 멧돼지 무리의 보스.<br>계획적으로 무리를 지어 민가의 식량을 훔칠 때가 있다. 그 솜씨는 인간 이상으로 뛰어나다. 보라색을 좋아한다. 목에 건 자수정은 역대 보스로부터 물려받았다.<br>경험치는 50000",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
@@ -84,383 +84,383 @@
     "tuimg": "test/image/tumnail/2주년 기념 진수성찬.png",
     "maimg": "test/image/maimg/4411.png",
     "Description": "원피스 트레저 크루즈의 2주년을 기념하여 만든 진수성찬<br>캐릭터 합성에 사용하면 경험치 500만을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "봉의 백조 망토",
     "tuimg": "test/image/tumnail/봉의 백조 망토.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/봉의 백조 망토.png",
     "Description": "봉이 애용하는 백조 망토. 백조가 장식되어 있다. 합성시키면 ‘경험치’를 222222 얻을 수 있다. “경험치를 많이 얻을 수 있다구―웅! 합성해버리셔―!”",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "봉의 백조 망토 - 빛나는 친구",
     "tuimg": "test/image/tumnail/봉의 백조 망토 - 빛나는 친구.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/봉의 백조 망토 - 빛나는 친구.png",
     "Description": "봉이 애용하는 굉장한 백조 망토. 등에는 ‘봉쿠레’라고 쓰여 있다. 합성시키면 ‘경험치’를 2222222 얻을 수 있다. “판매해도 베리를 많이 얻을 수 있다구―웅! 굉장히 이득이지―잉!”",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "기념 진수성찬 - 원피스 트레저 크루즈",
     "tuimg": "test/image/tumnail/기념 진수성찬 - 원피스 트레저 크루즈.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/기념 진수성찬 - 원피스 트레저 크루즈.png",
     "Description": "원피스 트레저 크루즈의 축하 기념 진수성찬<br>캐릭터 합성에 사용하면 경험치 500만을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "기념 로스트 터키 - 원피스 트레저 크루즈",
     "tuimg": "test/image/tumnail/기념 로스트 터키 - 원피스 트레저 크루즈.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/기념 로스트 터키 - 원피스 트레저 크루즈.png",
     "Description": "트레저 크루즈를 축하하기 위해 만들어진 기념 로스트 터키! 캐릭터의 합성에 사용하면 경험치를 무려 500만을 받을 수 있는 데다가, 캐릭터의 필살기 레벨이 1 상승한다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "삶은 랍스터 - 별 2개",
     "tuimg": "test/image/tumnail/삶은 랍스터 - 별 2개.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/삶은 랍스터 - 별 2개.png",
     "Description": "트레저 크루즈의 축하를 위해 만든 기념 삶은 랍스터!<br>캐릭터의 합성에 사용하면 경험치를 33333 받을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "삶은 랍스터 - 별 3개",
     "tuimg": "test/image/tumnail/삶은 랍스터 - 별 3개.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/삶은 랍스터 - 별 3개.png",
     "Description": "트레저 크루즈의 축하를 위해 만든 기념 삶은 랍스터!<br>캐릭터의 합성에 사용하면 경험치를 333333 받을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "삶은 랍스터 - 별 4개",
     "tuimg": "test/image/tumnail/삶은 랍스터 - 별 4개.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/삶은 랍스터 - 별 4개.png",
     "Description": "트레저 크루즈의 축하를 위해 만든 기념 삶은 랍스터!<br>캐릭터의 합성에 사용하면 경험치를 3333333 받을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "발렌타인 초콜릿",
     "tuimg": "test/image/tumnail/발렌타인 초콜릿.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/발렌타인 초콜릿.png",
     "Description": "발렌타인데이를 기념하여 만들어진 초콜릿!<br>캐릭터 강화에 사용하면 경험치 2140000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "다과회 플레이트 호미즈 ★2",
     "tuimg": "test/image/tumnail/다과회 플레이트 호미즈 2.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/다과회 플레이트 호미즈 2.png",
     "Description": "원피스 트레저 크루즈 축하 행사에 어울리는 기념용 다과회 플레이트!<br>캐릭터 합성에 사용하면 경험치 40000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "다과회 플레이트 호미즈 ★3",
     "tuimg": "test/image/tumnail/다과회 플레이트 호미즈 3.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/다과회 플레이트 호미즈 3.png",
     "Description": "원피스 트레저 크루즈 축하 행사에 어울리는 기념용 다과회 플레이트!<br>캐릭터 합성에 사용하면 경험치 400000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "다과회 플레이트 호미즈 ★4",
     "tuimg": "test/image/tumnail/다과회 플레이트 호미즈 4.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/다과회 플레이트 호미즈 4.png",
     "Description": "원피스 트레저 크루즈 축하 행사에 어울리는 기념용 다과회 플레이트!<br>캐릭터 합성에 사용하면 경험치 4000000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "비전의 티 호미즈",
     "tuimg": "test/image/tumnail/비전의 티 호미즈.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/비전의 티 호미즈.png",
     "Description": "원피스 트레저 크루즈 축하 행사에 어울리는 티 세트와 비전의 홍차!<br>능력 슬롯을 보유한 캐릭터에 합성하면 ‘능력 해방’이 가능하며, 추가로 경험치 400000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "과일 빙수 (S)",
     "tuimg": "test/image/tumnail/과일 빙수S.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/과일 빙수S.png",
     "Description": "과일을 얹은, 여름에 먹기 좋은 맛있는 빙수.<br>머리가 띵해질 정도로 차가워 여름에 딱! 캐릭터 강화에 사용하면 30000 경험치를 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "과일 빙수 (M)",
     "tuimg": "test/image/tumnail/과일 빙수M.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/과일 빙수M.png",
     "Description": "과일을 가득 얹은, 여름에 먹기 좋은 맛있는 빙수!<br>입 안에서 사르르 녹아 더운 여름에 딱이다. 캐릭터 강화에 사용하면 300000 경험치를 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "과일 빙수 (L)",
     "tuimg": "test/image/tumnail/과일 빙수L.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/과일 빙수L.png",
     "Description": "고급 과일을 가득 얹은, 곰돌이 눈사람 모양의 아주 맛있는 빙수!<br>엄선된 과일과 좋은 빙질의 얼음을 사용했다. 캐릭터 강화에 사용하면 3000000 경험치를 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "진수성찬 - 100 million Downloads Celebration",
     "tuimg": "test/image/tumnail/진수성찬 - 100 million Downloads Celebration.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/진수성찬 - 100 million Downloads Celebration.png",
     "Description": "‘100 million Downloads Celebration’이라는 문구가 새겨진 진수성찬!<br>캐릭터 강화에 사용하면 경험치 500만을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "로스트 터키 - 100 million Downloads Celebration",
     "tuimg": "test/image/tumnail/로스트 터키 - 100 million Downloads Celebration.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/로스트 터키 - 100 million Downloads Celebration.png",
     "Description": "‘100 million Downloads Celebration’이라는 문구가 새겨진 로스트 터키!<br>캐릭터 강화에 사용하면 경험치 500만을 얻을 수 있으며, 캐릭터의 필살기 레벨이 1 상승한다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "초대량 고기 - 루피가 제일 좋아하는 것",
     "tuimg": "test/image/tumnail/초대량 고기 - 루피가 제일 좋아하는 것.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/초대량 고기 - 루피가 제일 좋아하는 것.png",
     "Description": "루피가 제일 좋아하는 볼륨감 만점 고기! <br> 모든 캐릭터의 강화에 사용할 수 있으며, 강화에 사용하면 경험치를 100000 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "초대량 도넛 - 카타쿠리가 제일 좋아하는 것",
     "tuimg": "test/image/tumnail/초대량 도넛 - 카타쿠리가 제일 좋아하는 것.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/초대량 도넛 - 카타쿠리가 제일 좋아하는 것.png",
     "Description": "카타쿠리가 제일 좋아하는 달콤한 향기의 도넛!<br>모든 캐릭터의 강화에 사용할 수 있으며, 강화에 사용하면 경험치를 100000 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "낡은 검 - 검사의 전리품",
     "tuimg": "test/image/tumnail/낡은 검 - 검사의 전리품.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/낡은 검 - 검사의 전리품.png",
     "Description": "‘스파다우 왕국 폐허에 서식하는 휴먼 드릴들이 지닌 낡은 검.<br>캐릭터 강화에 사용하면 경험치 30000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "비비 원숭이들의 검 - 검사의 전리품",
     "tuimg": "test/image/tumnail/비비 원숭이들의 검 - 검사의 전리품.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/비비 원숭이들의 검 - 검사의 전리품.png",
     "Description": "‘스파다우 왕국 폐허에 서식하는 휴먼 드릴들이 지닌 튼튼해 보이는 검.<br>캐릭터 강화에 사용하면 경험치 75000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "스파다우 왕국의 검 - 검사의 전리품",
     "tuimg": "test/image/tumnail/스파다우 왕국의 검 - 검사의 전리품.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/스파다우 왕국의 검 - 검사의 전리품.png",
     "Description": "스파다우 왕국 폐허에 서식하는 휴먼 드릴들이 지닌 아름다운 장식의 훌륭한 검.<br>캐릭터 강화에 사용하면 경험치 100000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "간소한 피스톨 - 해군에게 얻은 전리품",
     "tuimg": "test/image/tumnail/간소한 피스톨 - 해군에게 얻은 전리품.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/간소한 피스톨 - 해군에게 얻은 전리품.png",
     "Description": "해군본부에서 사용하는 피스톨로 병사에게 지급된다. 다루기 쉽지만 위력이 약하다.<br>캐릭터 강화에 사용하면 경험치 30000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "튼튼한 피스톨 - 해군에게 얻은 전리품",
     "tuimg": "test/image/tumnail/튼튼한 피스톨 - 해군에게 얻은 전리품.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/튼튼한 피스톨 - 해군에게 얻은 전리품.png",
     "Description": "해군본부에서 사용하는 피스톨로 부사관에게 지급된다. 둔기로 써도 문제없을 정도의 견고함이 특징이다.<br>캐릭터 강화에 사용하면 경험치 75000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "호화 피스톨 - 해군에게 얻은 전리품",
     "tuimg": "test/image/tumnail/호화 피스톨 - 해군에게 얻은 전리품.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/호화 피스톨 - 해군에게 얻은 전리품.png",
     "Description": "해군본부에서 사용하는 피스톨로 사관에게 지급된다. 새겨진 장식은 이 피스톨의 성능이 얼마나 뛰어난지를 증명한다.<br>캐릭터 강화에 사용하면 경험치 100000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "곰 장난감 - 드레스로자의 의용병",
     "tuimg": "test/image/tumnail/곰 장난감 - 드레스로자의 의용병.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/곰 장난감 - 드레스로자의 의용병.png",
     "Description": "생명을 가진 움직이는 장난감. 슈거의 명령에 따라 아무 무기도 없이 싸우고 있었다.<br>구해준 보답으로 캐릭터 강화에 사용하면 경험치 30000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "무장한 곰 장난감 - 드레스로자의 의용병",
     "tuimg": "test/image/tumnail/무장한 곰 장난감 - 드레스로자의 의용병.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/무장한 곰 장난감 - 드레스로자의 의용병.png",
     "Description": "생명을 가진 움직이는 장난감. 슈거의 명령에 따라 검을 들고 싸우고 있었다.<br>구해준 보답으로 캐릭터 강화에 사용하면 경험치 75000을 받을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "완전 무장한 곰 장난감 - 드레스로자의 의용병",
     "tuimg": "test/image/tumnail/완전 무장한 곰 장난감 - 드레스로자의 의용병.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/완전 무장한 곰 장난감 - 드레스로자의 의용병.png",
     "Description": "생명을 가진 움직이는 장난감. 슈거의 명령에 따라 훌륭한 검과 방패를 들고 싸우고 있었다.<br>구해준 보답으로 캐릭터 강화에 사용하면 경험치 100000을 받을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "모험의 증표",
     "tuimg": "test/image/tumnail/모험의 증표.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/모험의 증표.png",
     "Description": "간소한 도장이 찍혀있는 간소한 모험의 증표.<br>캐릭터 강화에 사용하면 경험치 30000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "모험의 증표・은",
     "tuimg": "test/image/tumnail/모험의 증표・은.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/모험의 증표・은.png",
     "Description": "은으로 된 도장이 찍혀있는 아름다운 모험의 증표.<br>캐릭터 강화에 사용하면 경험치 75000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "모험의 증표・금",
     "tuimg": "test/image/tumnail/모험의 증표・금.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/모험의 증표・금.png",
     "Description": "금으로 된 도장과 장식으로 치장된 호화로운 모험의 증표.<br>캐릭터 강화에 사용하면 경험치 100000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "도원농원의 쌀",
     "tuimg": "test/image/tumnail/도원농원의 쌀.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/도원농원의 쌀.png",
     "Description": "와노쿠니 바쿠라 마을 안쪽의 도원농원에서 재배된 쌀. 깨끗한 물에 자랐기 때문에 무해하다.<br>캐릭터 강화에 사용하면 경험치 30000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "도원농원의 쌀 - 풍작",
     "tuimg": "test/image/tumnail/도원농원의 쌀 - 풍작.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/도원농원의 쌀 - 풍작.png",
     "Description": "와노쿠니 바쿠라 마을 안쪽의 도원농원에서 재배된 쌀. 깨끗한 물에 자랐기 때문에 무해하다.<br>캐릭터 강화에 사용하면 경험치 75000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "도원농원의 쌀 - 대풍작",
     "tuimg": "test/image/tumnail/도원농원의 쌀 - 대풍작.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/도원농원의 쌀 - 대풍작.png",
     "Description": "와노쿠니 바쿠라 마을 안쪽의 도원농원에서 재배된 쌀. 깨끗한 물에 자랐기 때문에 무해하다.<br>캐릭터 강화에 사용하면 경험치 100000을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "영구지침의 위치를 가리키는 종이 조각/지도",
     "tuimg": "test/image/tumnail/영구지침의 위치를 가리키는 종이 조각지도.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/영구지침의 위치를 가리키는 종이 조각지도.png",
     "Description": "어느 섬에 잠들어 있는 ‘호화로운 보물’. 그 보물의 위치를 가리키는 ‘영구지침’이 감춰진 장소를 나타낸 지도의 조각.<br>캐릭터 강화에 사용하면 경험치 10만을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "보물의 열쇠 위치를 가리키는 종이 조각/지도",
     "tuimg": "test/image/tumnail/보물의 열쇠 위치를 가리키는 종이 조각지도.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/보물의 열쇠 위치를 가리키는 종이 조각지도.png",
     "Description": "어느 섬에 잠들어 있는 ‘호화로운 보물’. 그 보물을 여는 ‘보물의 열쇠’가 감춰진 장소를 나타낸 지도의 조각<br>캐릭터 강화에 사용하면 경험치 10만을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "무지개 영주 거북",
     "tuimg": "test/image/tumnail/무지개 영주 거북.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/무지개 영주 거북.png",
     "Description": "[레벨 강화 재료] 무지개색 등껍질을 가진 백년 장수 거북이.<br>강화 재료로 사용하면 경험치를 100000 얻을 수 있다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "무지개 원로 거북",
     "tuimg": "test/image/tumnail/무지개 원로 거북.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/무지개 원로 거북.png",
     "Description": "[레벨 강화 재료] 무지개색 등껍질을 가진 천년 장수 거북이.<br>강화 재료로 사용하면 경험치를 500000 얻을 수 있다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "무지개 용궁 거북 공주",
     "tuimg": "test/image/tumnail/무지개 용궁 거북 공주.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/무지개 용궁 거북 공주.png",
     "Description": "[레벨 강화 재료] 무지개색의 호화로운 등껍질을 가진 그럭저럭 긴 수명의 거북이.<br>강화 재료로 사용하면 경험치를 2000000 얻을 수 있다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "무지개색 야광봉",
     "tuimg": "test/image/tumnail/무지개색 야광봉.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/무지개색 야광봉.png",
     "Description": "[레벨 강화 재료] 강화 재료로 사용하면 경험치를 120000 얻을 수 있다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "무지개색 야광봉・상급",
     "tuimg": "test/image/tumnail/무지개색 야광봉・상급.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/무지개색 야광봉・상급.png",
     "Description": "[레벨 강화 재료] 강화 재료로 사용하면 경험치를 600000 얻을 수 있다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "무지개색 야광봉・특급",
     "tuimg": "test/image/tumnail/무지개색 야광봉・특급.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/무지개색 야광봉・특급.png",
     "Description": "[레벨 강화 재료] 강화 재료로 사용하면 경험치를 2400000 얻을 수 있다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "10주년 기념 케이크",
     "tuimg": "test/image/tumnail/10주년 기념 케이크.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/10주년 기념 케이크.png",
     "Description": "원피스 트레저 크루즈 10주년 축하 기념 특별 케이크<br>캐릭터 합성에 사용하면 경험치 1억을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "ONE PIECE의 날 기념 주간 소년 점프",
     "tuimg": "test/image/tumnail/ONE PIECE의 날 기념 주간 소년 점프.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/ONE PIECE의 날 기념 주간 소년 점프.png",
     "Description": "ONE PIECE의 날 축하 기념 주간 소년 점프.<br>캐릭터 합성에 사용하면 서포트 효과 레벨이 반드시 강화되고 경험치 1000만을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "생일 케이크",
     "tuimg": "test/image/tumnail/생일 케이크.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/생일 케이크.png",
     "Description": "생일 축하 기념 호화 케이크<br>캐릭터 합성에 사용하면 경험치 500만을 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "상디의 특제 필라프",
     "tuimg": "test/image/tumnail/상디의 특제 필라프.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/상디의 특제 필라프.png",
     "Description": "[레벨 강화 재료] 강화 재료로 사용하면 경험치를 3200000 얻을 수 있다.",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   },
 
   {
     "Name": "Special collaboration with Dortmund",
     "tuimg": "test/image/tumnail/Special collaboration with Dortmund.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/Special collaboration with Dortmund.png",
     "Description": "BVB×ONE PIECE Matchday 25 개최 기념품.<br>캐릭터 강화에 사용하면 경험치를 1909만 얻을 수 있다!",
-    "Get it": "던전 보상"
+    "Get it": "현재 등록된 정보가 없습니다."
   }
 ]
 

@@ -2,24 +2,24 @@
   {
     "Name": "우정의 증표",
     "tuimg": "test/image/tumnail/우정의증표.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/우정의 증표.png",
     "Description": "함께 싸운 동료와 쌓아 올린 우정의 증표. 서포트 효과를 가진 캐릭터 합성에 사용하면 서포트 효과의 레벨이 드물게 상승한다..",
-    "Get it": "업적 보상"
+    "Get it": "등록된 정보가 없습니다."
   },
 
   {
     "Name": "우정의 증표·단단한 인연",
     "tuimg": "test/image/tumnail/우정의증표단단한인연.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/우정의 증표·단단한 인연.png",
     "Description": "함께 싸운 동료와 쌓아 올린 단단한 인연의 증표. 서포트 효과를 가진 캐릭터 합성에 사용하면 서포트 효과의 레벨이 가끔 상승한다.",
-    "Get it": "업적 보상"
+    "Get it": "등록된 정보가 없습니다."
   },
 
   {
     "Name": "우정의 증표·최고의 신뢰",
     "tuimg": "test/image/tumnail/우정의증표최고의신뢰.png",
-    "maimg": "test/image/maimg/4411.png",
+    "maimg": "test/image/maimg/우정의 증표·최고의 신뢰.png",
     "Description": "함께 싸운 동료와 쌓아 올린 최고의 신뢰의 증표. 서포트 효과를 가진 캐릭터 합성에 사용하면 서포트 효과의 레벨이 반드시 상승한다.",
-    "Get it": "업적 보상"
+    "Get it": "등록된 정보가 없습니다."
   }
 ] 
