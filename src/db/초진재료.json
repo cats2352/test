@@ -2452,8 +2452,8 @@
     "tuimg": "test/image/tumnail/4378-skull.png",
     "maimg": "test/image/maimg/4378.png",
     "Description": "비취색으로 빛나는 수정으로 만들어진 해골. 매우 귀중하여 ‘구하기 어렵다’. 아직 많은 수수께끼가 있지만 ‘조로주로 기백 있는 낭인’이 이것을 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
-    "Get it": "해당스컬은 현재 풀리지 않았습니다.",
-    "ModeClass": "획득불가",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
     "BeforeCharacter": {
       "name": "조로주로 - 기백 있는 낭인",
       "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/3225"
@@ -2469,8 +2469,8 @@
     "tuimg": "test/image/tumnail/4385-skull.png",
     "maimg": "test/image/maimg/4385.png",
     "Description": "칠흑색으로 빛나는 수정 해골. 매우 귀중하여 ‘입수하기 어렵다’. 많은 수수께끼가 있지만, ‘상디&프랑키’가 몸에 지니면 시간을 초월한 ‘초진화’가 찾아온다고 한다.",
-    "Get it": "해당스컬은 현재 풀리지 않았습니다.",
-    "ModeClass": "획득불가",
+    "Get it": "유대결전 교환소",
+    "ModeClass": "유대결전",
     "BeforeCharacter": {
       "name": "상디프랑키",
       "link": "https://cats2352.github.io/optcDB_Ko/characters/#/view/4384"
